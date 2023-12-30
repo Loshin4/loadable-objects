@@ -5,9 +5,9 @@
         "posX": 65.0,
         "posY": 1.4814992,
         "posZ": 35.0,
-        "rotX": 6.3296234E-08,
+        "rotX": 8.118291E-08,
         "rotY": 270.0,
-        "rotZ": -1.65978051E-07,
+        "rotZ": -1.87299491E-07,
         "scaleX": 2.21,
         "scaleY": 0.46,
         "scaleZ": 2.42
@@ -136,9 +136,9 @@
             "posX": -3.805001,
             "posY": 1.58300042,
             "posZ": -15.0130138,
-            "rotX": -1.91523917E-08,
+            "rotX": -1.2563353E-08,
             "rotY": 269.9969,
-            "rotZ": -4.013784E-08,
+            "rotZ": -6.851279E-08,
             "scaleX": 2.2,
             "scaleY": 1.0,
             "scaleZ": 2.2
@@ -209,9 +209,9 @@
             "z": 0.0
           },
           "ColorDiffuse": {
-            "r": 0.10979902,
+            "r": 0.10979899,
             "g": 0.67770046,
-            "b": 0.209022611
+            "b": 0.209022582
           },
           "Tags": [
             "CleanUpHelper_ignore"
@@ -253,9 +253,9 @@
             "posX": -1.49999917,
             "posY": 1.48149931,
             "posZ": 57.0,
-            "rotX": 4.48362734E-08,
+            "rotX": 4.235551E-08,
             "rotY": 269.999939,
-            "rotZ": 7.389557E-08,
+            "rotZ": 8.028791E-08,
             "scaleX": 2.18,
             "scaleY": 1.0,
             "scaleZ": 2.18
@@ -308,9 +308,9 @@
             "posX": 12.252,
             "posY": 1.4814992,
             "posZ": 11.986,
-            "rotX": -8.72122357E-08,
+            "rotX": -6.249038E-08,
             "rotY": 270.011719,
-            "rotZ": -3.687043E-08,
+            "rotZ": -6.074995E-08,
             "scaleX": 2.21,
             "scaleY": 0.46,
             "scaleZ": 2.42
@@ -9853,9 +9853,9 @@
             "posX": 12.247,
             "posY": 1.48149908,
             "posZ": -12.016,
-            "rotX": 1.664494E-08,
+            "rotX": -4.12933332E-09,
             "rotY": 270.02594,
-            "rotZ": 1.27125421E-09,
+            "rotZ": -1.52860238E-07,
             "scaleX": 2.21,
             "scaleY": 0.46,
             "scaleZ": 2.42
@@ -9920,10 +9920,10 @@
               "GUID": "114667",
               "Name": "Deck",
               "Transform": {
-                "posX": -3.928503,
+                "posX": -3.92850137,
                 "posY": 1.71946764,
-                "posZ": 5.72011137,
-                "rotX": -4.41944827E-08,
+                "posZ": 5.72010469,
+                "rotX": 1.04815108E-07,
                 "rotY": 270.0,
                 "rotZ": 180.0,
                 "scaleX": 1.0,
@@ -11571,10 +11571,10 @@
               "GUID": "2863a5",
               "Name": "CardCustom",
               "Transform": {
-                "posX": -17.1200352,
+                "posX": -17.1200447,
                 "posY": 1.53360486,
-                "posZ": 7.570024,
-                "rotX": 4.5021693E-08,
+                "posZ": 7.57001638,
+                "rotX": 5.51935138E-08,
                 "rotY": 270.000122,
                 "rotZ": 180.0,
                 "scaleX": 1.0,
@@ -11633,11 +11633,11 @@
               "GUID": "2dbbbf",
               "Name": "CardCustom",
               "Transform": {
-                "posX": -23.6763439,
+                "posX": -23.67635,
                 "posY": 1.53360486,
-                "posZ": 7.57623,
-                "rotX": -1.3177133E-07,
-                "rotY": 270.0004,
+                "posZ": 7.57622147,
+                "rotX": 2.36828317E-08,
+                "rotY": 270.000244,
                 "rotZ": 180.0,
                 "scaleX": 1.0,
                 "scaleY": 1.0,
@@ -11695,12 +11695,12 @@
               "GUID": "37e46b",
               "Name": "CardCustom",
               "Transform": {
-                "posX": -3.85000372,
+                "posX": -3.85000157,
                 "posY": 1.59660506,
-                "posZ": -10.3882189,
-                "rotX": 4.176786E-08,
-                "rotY": 269.998138,
-                "rotZ": 4.0320753E-08,
+                "posZ": -10.3882084,
+                "rotX": -1.22153185E-08,
+                "rotY": 269.998169,
+                "rotZ": 3.85250445E-08,
                 "scaleX": 1.0,
                 "scaleY": 1.0,
                 "scaleZ": 1.0
@@ -11753,12 +11753,12 @@
               "GUID": "765f3a",
               "Name": "Deck",
               "Transform": {
-                "posX": -2.9400022,
+                "posX": -2.94000077,
                 "posY": 1.61355889,
-                "posZ": -5.10410833,
-                "rotX": 4.67659653E-08,
-                "rotY": 179.977127,
-                "rotZ": -2.16621032E-08,
+                "posZ": -5.10410357,
+                "rotX": 2.19675478E-08,
+                "rotY": 179.9771,
+                "rotZ": 6.33833253E-08,
                 "scaleX": 1.0,
                 "scaleY": 1.0,
                 "scaleZ": 1.0
@@ -11941,11 +11941,11 @@
               "GUID": "8c6465",
               "Name": "CardCustom",
               "Transform": {
-                "posX": -17.1200314,
+                "posX": -17.120039,
                 "posY": 1.53360486,
-                "posZ": -0.0299897287,
-                "rotX": -1.31801565E-08,
-                "rotY": 270.000061,
+                "posZ": -0.0299898945,
+                "rotX": -5.279454E-09,
+                "rotY": 270.0,
                 "rotZ": 180.0,
                 "scaleX": 1.0,
                 "scaleY": 1.0,
@@ -12003,11 +12003,11 @@
               "GUID": "9c9fe8",
               "Name": "CardCustom",
               "Transform": {
-                "posX": -23.6766052,
+                "posX": -23.6766453,
                 "posY": 1.53360486,
-                "posZ": -0.0173955262,
-                "rotX": -9.682109E-08,
-                "rotY": 270.003571,
+                "posZ": -0.0173855778,
+                "rotX": -3.991271E-08,
+                "rotY": 270.003662,
                 "rotZ": 180.0,
                 "scaleX": 1.0,
                 "scaleY": 1.0,
@@ -12065,12 +12065,12 @@
               "GUID": "a31603",
               "Name": "Custom_Model_Bag",
               "Transform": {
-                "posX": 1.697639,
-                "posY": 1.55803585,
-                "posZ": 14.2787027,
-                "rotX": 4.43397767E-06,
-                "rotY": 224.999756,
-                "rotZ": 1.27961823E-06,
+                "posX": 1.69763708,
+                "posY": 1.55803645,
+                "posZ": 14.2786961,
+                "rotX": 2.92555228E-06,
+                "rotY": 224.999771,
+                "rotZ": 4.72357215E-07,
                 "scaleX": 2.0,
                 "scaleY": 2.0,
                 "scaleZ": 2.0
@@ -13051,11 +13051,11 @@
               "GUID": "a9aa44",
               "Name": "CardCustom",
               "Transform": {
-                "posX": -17.1201363,
+                "posX": -17.1201477,
                 "posY": 1.53360486,
-                "posZ": -7.700002,
-                "rotX": 6.888984E-08,
-                "rotY": 270.000031,
+                "posZ": -7.699995,
+                "rotX": 9.23316E-08,
+                "rotY": 269.999969,
                 "rotZ": 180.0,
                 "scaleX": 1.0,
                 "scaleY": 1.0,
@@ -13113,11 +13113,11 @@
               "GUID": "ad888d",
               "Name": "Deck",
               "Transform": {
-                "posX": -8.519879,
-                "posY": 1.62728631,
-                "posZ": 5.81281042,
-                "rotX": 1.61126482,
-                "rotY": 269.998169,
+                "posX": -8.519895,
+                "posY": 1.62728608,
+                "posZ": 5.8128047,
+                "rotX": 1.61125433,
+                "rotY": 269.998,
                 "rotZ": 180.0,
                 "scaleX": 1.0,
                 "scaleY": 1.0,
@@ -13811,7 +13811,7 @@
               "Transform": {
                 "posX": -28.2377777,
                 "posY": 1.54765654,
-                "posZ": 2.026622,
+                "posZ": 2.02661967,
                 "rotX": -6.224544E-05,
                 "rotY": 269.976929,
                 "rotZ": 359.243622,
@@ -13872,9 +13872,9 @@
               "Transform": {
                 "posX": -30.2243614,
                 "posY": 1.53359807,
-                "posZ": -0.0298843291,
-                "rotX": 6.934077E-05,
-                "rotY": 270.000763,
+                "posZ": -0.0298839733,
+                "rotX": 6.934914E-05,
+                "rotY": 270.000732,
                 "rotZ": 180.000473,
                 "scaleX": 1.0,
                 "scaleY": 1.0,
@@ -13932,12 +13932,12 @@
               "GUID": "f67923",
               "Name": "Deck",
               "Transform": {
-                "posX": -2.93999124,
+                "posX": -2.93999076,
                 "posY": 1.623187,
-                "posZ": 0.393003464,
-                "rotX": -2.60064823E-08,
+                "posZ": 0.393002331,
+                "rotX": 6.32006447E-09,
                 "rotY": 179.981125,
-                "rotZ": 3.42858186E-09,
+                "rotZ": -2.10009041E-08,
                 "scaleX": 1.0,
                 "scaleY": 1.0,
                 "scaleZ": 1.0
@@ -14281,9 +14281,9 @@
             "posX": 12.251,
             "posY": 1.4814992,
             "posZ": -20.014,
-            "rotX": -5.069226E-08,
+            "rotX": -1.40588661E-08,
             "rotY": 270.013977,
-            "rotZ": -1.87375822E-08,
+            "rotZ": 8.112029E-07,
             "scaleX": 2.21,
             "scaleY": 0.46,
             "scaleZ": 2.42
@@ -14345,15 +14345,271 @@
           "XmlUI": "",
           "ContainedObjects": [
             {
+              "GUID": "11afcc",
+              "Name": "Deck",
+              "Transform": {
+                "posX": -2.94000077,
+                "posY": 1.61837292,
+                "posZ": 0.39300096,
+                "rotX": -7.839434E-09,
+                "rotY": 180.027,
+                "rotZ": 2.82714581E-08,
+                "scaleX": 1.0,
+                "scaleY": 1.0,
+                "scaleZ": 1.0
+              },
+              "Nickname": "Agenda Deck",
+              "Description": "",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 0.713235259,
+                "g": 0.713235259,
+                "b": 0.713235259
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": true,
+              "Hands": false,
+              "SidewaysCard": true,
+              "DeckIDs": [
+                623700,
+                625400,
+                625500
+              ],
+              "CustomDeck": {
+                "6237": {
+                  "FaceURL": "http://cloud-3.steamusercontent.com/ugc/1806508520597333718/BBB4FB4A90FAE3F01E7C7FD5DA29971A9512059E/",
+                  "BackURL": "http://cloud-3.steamusercontent.com/ugc/1806508520597333945/FE69AA5E29600FB46A047F43AA160AC3565BCBCE/",
+                  "NumWidth": 1,
+                  "NumHeight": 1,
+                  "BackIsHidden": true,
+                  "UniqueBack": false,
+                  "Type": 0
+                },
+                "6254": {
+                  "FaceURL": "http://cloud-3.steamusercontent.com/ugc/1806508520597332828/84EB8D6C7DAA36822085E45993D04AAB45ADE37D/",
+                  "BackURL": "http://cloud-3.steamusercontent.com/ugc/1806508520597333069/00E8C49ED5AC2212FC3F2DF8C9E3AA7848ACE51D/",
+                  "NumWidth": 1,
+                  "NumHeight": 1,
+                  "BackIsHidden": true,
+                  "UniqueBack": false,
+                  "Type": 0
+                },
+                "6255": {
+                  "FaceURL": "http://cloud-3.steamusercontent.com/ugc/1806508520597331916/2FC972BB16EDFFA305B22E89A9B887A9FE7FD66A/",
+                  "BackURL": "http://cloud-3.steamusercontent.com/ugc/1806508520597332184/3F6C92B03D3C45D4928500B5DCDF60BC620414F6/",
+                  "NumWidth": 1,
+                  "NumHeight": 1,
+                  "BackIsHidden": true,
+                  "UniqueBack": false,
+                  "Type": 0
+                }
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": "",
+              "ContainedObjects": [
+                {
+                  "GUID": "979c1e",
+                  "Name": "CardCustom",
+                  "Transform": {
+                    "posX": 0.105549067,
+                    "posY": 1.27292812,
+                    "posZ": 50.8255,
+                    "rotX": 0.0227676257,
+                    "rotY": 180.211761,
+                    "rotZ": 359.937836,
+                    "scaleX": 1.0,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.0
+                  },
+                  "Nickname": "Agenda 3",
+                  "Description": "",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 623700,
+                  "SidewaysCard": true,
+                  "CustomDeck": {
+                    "6237": {
+                      "FaceURL": "http://cloud-3.steamusercontent.com/ugc/1806508520597333718/BBB4FB4A90FAE3F01E7C7FD5DA29971A9512059E/",
+                      "BackURL": "http://cloud-3.steamusercontent.com/ugc/1806508520597333945/FE69AA5E29600FB46A047F43AA160AC3565BCBCE/",
+                      "NumWidth": 1,
+                      "NumHeight": 1,
+                      "BackIsHidden": true,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "ded02f",
+                  "Name": "CardCustom",
+                  "Transform": {
+                    "posX": 0.5446564,
+                    "posY": 1.30266666,
+                    "posZ": 50.5353546,
+                    "rotX": 0.08064742,
+                    "rotY": 180.0024,
+                    "rotZ": 0.00373343681,
+                    "scaleX": 1.0,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.0
+                  },
+                  "Nickname": "Agenda 2",
+                  "Description": "",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 625400,
+                  "SidewaysCard": true,
+                  "CustomDeck": {
+                    "6236": {
+                      "FaceURL": "http://cloud-3.steamusercontent.com/ugc/1806508520597332828/84EB8D6C7DAA36822085E45993D04AAB45ADE37D/",
+                      "BackURL": "http://cloud-3.steamusercontent.com/ugc/1806508520597333069/00E8C49ED5AC2212FC3F2DF8C9E3AA7848ACE51D/",
+                      "NumWidth": 1,
+                      "NumHeight": 1,
+                      "BackIsHidden": true,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "ae36d7",
+                  "Name": "CardCustom",
+                  "Transform": {
+                    "posX": -0.00146876532,
+                    "posY": 1.33867133,
+                    "posZ": 50.6349144,
+                    "rotX": 0.0161359236,
+                    "rotY": 180.017,
+                    "rotZ": 359.9796,
+                    "scaleX": 1.0,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.0
+                  },
+                  "Nickname": "Agenda 1",
+                  "Description": "",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 625500,
+                  "SidewaysCard": true,
+                  "CustomDeck": {
+                    "6235": {
+                      "FaceURL": "http://cloud-3.steamusercontent.com/ugc/1806508520597331916/2FC972BB16EDFFA305B22E89A9B887A9FE7FD66A/",
+                      "BackURL": "http://cloud-3.steamusercontent.com/ugc/1806508520597332184/3F6C92B03D3C45D4928500B5DCDF60BC620414F6/",
+                      "NumWidth": 1,
+                      "NumHeight": 1,
+                      "BackIsHidden": true,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                }
+              ]
+            },
+            {
               "GUID": "2e3d6e",
               "Name": "Custom_Model_Bag",
               "Transform": {
                 "posX": 1.69760084,
                 "posY": 1.55803585,
                 "posZ": 14.2785034,
-                "rotX": 2.86480122E-06,
+                "rotX": 2.81282655E-06,
                 "rotY": 225.001617,
-                "rotZ": 5.28324847E-07,
+                "rotZ": 5.192712E-07,
                 "scaleX": 2.0,
                 "scaleY": 2.0,
                 "scaleZ": 2.0
@@ -15354,22 +15610,22 @@
               ]
             },
             {
-              "GUID": "d75ac8",
-              "Name": "Deck",
+              "GUID": "37e3f9",
+              "Name": "Card",
               "Transform": {
-                "posX": -0.0422729477,
-                "posY": 1.632815,
-                "posZ": 7.345606,
-                "rotX": -2.40172149E-08,
-                "rotY": 270.02124,
-                "rotZ": 1.01288457E-07,
+                "posX": -23.6764965,
+                "posY": 1.53360486,
+                "posZ": -7.700206,
+                "rotX": 4.941404E-08,
+                "rotY": 269.9984,
+                "rotZ": -7.951306E-08,
                 "scaleX": 1.0,
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "",
+              "Nickname": "Backstage",
               "Description": "",
-              "GMNotes": "",
+              "GMNotes": "{\n  \"id\": \"03052\",\n  \"type\": \"Location\",\n  \"cycle\": \"The Path to Carcosa\",\n  \"locationFront\": {\n    \"icons\": \"Diamond\",\n    \"connections\": \"Circle|Crescent\"\n  },\n  \"locationBack\": {\n    \"icons\": \"Diamond\",\n    \"connections\": \"Circle|Crescent\",\n    \"uses\": [\n      {\n        \"count\": 1,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
               "AltLookAngle": {
                 "x": 0.0,
                 "y": 0.0,
@@ -15381,6 +15637,7 @@
                 "b": 0.713235259
               },
               "Tags": [
+                "Location",
                 "ScenarioCard"
               ],
               "LayoutGroupSortIndex": 0,
@@ -15395,854 +15652,154 @@
               "Sticky": true,
               "Tooltip": true,
               "GridProjection": false,
-              "HideWhenFaceDown": true,
-              "Hands": false,
+              "HideWhenFaceDown": false,
+              "Hands": true,
+              "CardID": 585804,
               "SidewaysCard": false,
-              "DeckIDs": [
-                322606,
-                322606,
-                332202,
-                332204,
-                332203,
-                332205
-              ],
               "CustomDeck": {
-                "3226": {
-                  "FaceURL": "http://cloud-3.steamusercontent.com/ugc/942838965128938385/918C627E2D9C7C0D46CB14AC2ED233DBA6DA1D0E/",
-                  "BackURL": "http://cloud-3.steamusercontent.com/ugc/942832349457472314/500FFA1824D8A8B95E45274169050608782AC6EC/",
-                  "NumWidth": 3,
-                  "NumHeight": 3,
-                  "BackIsHidden": true,
-                  "UniqueBack": false,
-                  "Type": 0
-                },
-                "3322": {
-                  "FaceURL": "http://cloud-3.steamusercontent.com/ugc/942838965128938385/918C627E2D9C7C0D46CB14AC2ED233DBA6DA1D0E/",
-                  "BackURL": "http://cloud-3.steamusercontent.com/ugc/942832349457472314/500FFA1824D8A8B95E45274169050608782AC6EC/",
-                  "NumWidth": 3,
-                  "NumHeight": 3,
-                  "BackIsHidden": true,
-                  "UniqueBack": false,
-                  "Type": 0
-                }
-              },
-              "LuaScript": "",
-              "LuaScriptState": "",
-              "XmlUI": "",
-              "ContainedObjects": [
-                {
-                  "GUID": "79f4b5",
-                  "Name": "Card",
-                  "Transform": {
-                    "posX": 30.2582684,
-                    "posY": 1.49462545,
-                    "posZ": -1.57142651,
-                    "rotX": 0.004944557,
-                    "rotY": 270.022827,
-                    "rotZ": 359.967133,
-                    "scaleX": 1.0,
-                    "scaleY": 1.0,
-                    "scaleZ": 1.0
-                  },
-                  "Nickname": "광기에 빠져들다",
-                  "Description": "공포심.",
-                  "GMNotes": "",
-                  "AltLookAngle": {
-                    "x": 0.0,
-                    "y": 0.0,
-                    "z": 0.0
-                  },
-                  "ColorDiffuse": {
-                    "r": 0.713235259,
-                    "g": 0.713235259,
-                    "b": 0.713235259
-                  },
-                  "Tags": [
-                    "ScenarioCard"
-                  ],
-                  "LayoutGroupSortIndex": 0,
-                  "Value": 0,
-                  "Locked": false,
-                  "Grid": true,
-                  "Snap": true,
-                  "IgnoreFoW": false,
-                  "MeasureMovement": false,
-                  "DragSelectable": true,
-                  "Autoraise": true,
-                  "Sticky": true,
-                  "Tooltip": true,
-                  "GridProjection": false,
-                  "HideWhenFaceDown": true,
-                  "Hands": true,
-                  "CardID": 322606,
-                  "SidewaysCard": false,
-                  "CustomDeck": {
-                    "3226": {
-                      "FaceURL": "http://cloud-3.steamusercontent.com/ugc/942838965128938385/918C627E2D9C7C0D46CB14AC2ED233DBA6DA1D0E/",
-                      "BackURL": "http://cloud-3.steamusercontent.com/ugc/942832349457472314/500FFA1824D8A8B95E45274169050608782AC6EC/",
-                      "NumWidth": 3,
-                      "NumHeight": 3,
-                      "BackIsHidden": true,
-                      "UniqueBack": false,
-                      "Type": 0
-                    }
-                  },
-                  "LuaScript": "",
-                  "LuaScriptState": "",
-                  "XmlUI": ""
-                },
-                {
-                  "GUID": "c46282",
-                  "Name": "Card",
-                  "Transform": {
-                    "posX": 30.5022221,
-                    "posY": 1.53031683,
-                    "posZ": -1.78142464,
-                    "rotX": 359.946442,
-                    "rotY": 270.0228,
-                    "rotZ": 0.0176454112,
-                    "scaleX": 1.0,
-                    "scaleY": 1.0,
-                    "scaleZ": 1.0
-                  },
-                  "Nickname": "광기에 빠져들다",
-                  "Description": "공포심.",
-                  "GMNotes": "",
-                  "AltLookAngle": {
-                    "x": 0.0,
-                    "y": 0.0,
-                    "z": 0.0
-                  },
-                  "ColorDiffuse": {
-                    "r": 0.713235259,
-                    "g": 0.713235259,
-                    "b": 0.713235259
-                  },
-                  "Tags": [
-                    "ScenarioCard"
-                  ],
-                  "LayoutGroupSortIndex": 0,
-                  "Value": 0,
-                  "Locked": false,
-                  "Grid": true,
-                  "Snap": true,
-                  "IgnoreFoW": false,
-                  "MeasureMovement": false,
-                  "DragSelectable": true,
-                  "Autoraise": true,
-                  "Sticky": true,
-                  "Tooltip": true,
-                  "GridProjection": false,
-                  "HideWhenFaceDown": true,
-                  "Hands": true,
-                  "CardID": 322606,
-                  "SidewaysCard": false,
-                  "CustomDeck": {
-                    "3226": {
-                      "FaceURL": "http://cloud-3.steamusercontent.com/ugc/942838965128938385/918C627E2D9C7C0D46CB14AC2ED233DBA6DA1D0E/",
-                      "BackURL": "http://cloud-3.steamusercontent.com/ugc/942832349457472314/500FFA1824D8A8B95E45274169050608782AC6EC/",
-                      "NumWidth": 3,
-                      "NumHeight": 3,
-                      "BackIsHidden": true,
-                      "UniqueBack": false,
-                      "Type": 0
-                    }
-                  },
-                  "LuaScript": "",
-                  "LuaScriptState": "",
-                  "XmlUI": ""
-                },
-                {
-                  "GUID": "4f556c",
-                  "Name": "Card",
-                  "Transform": {
-                    "posX": 30.59471,
-                    "posY": 1.56609571,
-                    "posZ": -1.911452,
-                    "rotX": 0.000800598238,
-                    "rotY": 270.0228,
-                    "rotZ": -0.00118125521,
-                    "scaleX": 1.0,
-                    "scaleY": 1.0,
-                    "scaleZ": 1.0
-                  },
-                  "Nickname": "Whispers in Your Head (Dismay)",
-                  "Description": "",
-                  "GMNotes": "{\n  \"id\": \"dm0021\",\n  \"type\": \"Treachery\",\n  \"traits\": \"\",\n  \"hidden\": true,\n  \"cycle\": \"dark matter\"\n}",
-                  "AltLookAngle": {
-                    "x": 0.0,
-                    "y": 0.0,
-                    "z": 0.0
-                  },
-                  "ColorDiffuse": {
-                    "r": 0.713235259,
-                    "g": 0.713235259,
-                    "b": 0.713235259
-                  },
-                  "Tags": [
-                    "ScenarioCard"
-                  ],
-                  "LayoutGroupSortIndex": 0,
-                  "Value": 0,
-                  "Locked": false,
-                  "Grid": true,
-                  "Snap": true,
-                  "IgnoreFoW": false,
-                  "MeasureMovement": false,
-                  "DragSelectable": true,
-                  "Autoraise": true,
-                  "Sticky": true,
-                  "Tooltip": true,
-                  "GridProjection": false,
-                  "HideWhenFaceDown": true,
-                  "Hands": true,
-                  "CardID": 332202,
-                  "SidewaysCard": false,
-                  "CustomDeck": {
-                    "3322": {
-                      "FaceURL": "http://cloud-3.steamusercontent.com/ugc/942838965128938385/918C627E2D9C7C0D46CB14AC2ED233DBA6DA1D0E/",
-                      "BackURL": "http://cloud-3.steamusercontent.com/ugc/942832349457472314/500FFA1824D8A8B95E45274169050608782AC6EC/",
-                      "NumWidth": 3,
-                      "NumHeight": 3,
-                      "BackIsHidden": true,
-                      "UniqueBack": false,
-                      "Type": 0
-                    }
-                  },
-                  "LuaScript": "",
-                  "LuaScriptState": "",
-                  "XmlUI": ""
-                },
-                {
-                  "GUID": "0f2415",
-                  "Name": "Card",
-                  "Transform": {
-                    "posX": 30.6047516,
-                    "posY": 1.58032668,
-                    "posZ": -1.42439854,
-                    "rotX": 0.000768356258,
-                    "rotY": 270.022369,
-                    "rotZ": 359.750244,
-                    "scaleX": 1.0,
-                    "scaleY": 1.0,
-                    "scaleZ": 1.0
-                  },
-                  "Nickname": "Whispers in Your Head (Anxiety)",
-                  "Description": "",
-                  "GMNotes": "{\n  \"id\": \"dm0023\",\n  \"type\": \"Treachery\",\n  \"traits\": \"\",\n  \"hidden\": true,\n  \"cycle\": \"dark matter\"\n}",
-                  "AltLookAngle": {
-                    "x": 0.0,
-                    "y": 0.0,
-                    "z": 0.0
-                  },
-                  "ColorDiffuse": {
-                    "r": 0.713235259,
-                    "g": 0.713235259,
-                    "b": 0.713235259
-                  },
-                  "Tags": [
-                    "ScenarioCard"
-                  ],
-                  "LayoutGroupSortIndex": 0,
-                  "Value": 0,
-                  "Locked": false,
-                  "Grid": true,
-                  "Snap": true,
-                  "IgnoreFoW": false,
-                  "MeasureMovement": false,
-                  "DragSelectable": true,
-                  "Autoraise": true,
-                  "Sticky": true,
-                  "Tooltip": true,
-                  "GridProjection": false,
-                  "HideWhenFaceDown": true,
-                  "Hands": true,
-                  "CardID": 332204,
-                  "SidewaysCard": false,
-                  "CustomDeck": {
-                    "3322": {
-                      "FaceURL": "http://cloud-3.steamusercontent.com/ugc/942838965128938385/918C627E2D9C7C0D46CB14AC2ED233DBA6DA1D0E/",
-                      "BackURL": "http://cloud-3.steamusercontent.com/ugc/942832349457472314/500FFA1824D8A8B95E45274169050608782AC6EC/",
-                      "NumWidth": 3,
-                      "NumHeight": 3,
-                      "BackIsHidden": true,
-                      "UniqueBack": false,
-                      "Type": 0
-                    }
-                  },
-                  "LuaScript": "",
-                  "LuaScriptState": "",
-                  "XmlUI": ""
-                },
-                {
-                  "GUID": "c978df",
-                  "Name": "Card",
-                  "Transform": {
-                    "posX": 30.31675,
-                    "posY": 1.58525467,
-                    "posZ": -1.201065,
-                    "rotX": 0.0009440394,
-                    "rotY": 270.0234,
-                    "rotZ": -0.00237606512,
-                    "scaleX": 1.0,
-                    "scaleY": 1.0,
-                    "scaleZ": 1.0
-                  },
-                  "Nickname": "Whispers in Your Head (Dread)",
-                  "Description": "",
-                  "GMNotes": "{\n  \"id\": \"dm0022\",\n  \"type\": \"Treachery\",\n  \"traits\": \"\",\n  \"hidden\": true,\n  \"cycle\": \"dark matter\"\n}",
-                  "AltLookAngle": {
-                    "x": 0.0,
-                    "y": 0.0,
-                    "z": 0.0
-                  },
-                  "ColorDiffuse": {
-                    "r": 0.713235259,
-                    "g": 0.713235259,
-                    "b": 0.713235259
-                  },
-                  "Tags": [
-                    "ScenarioCard"
-                  ],
-                  "LayoutGroupSortIndex": 0,
-                  "Value": 0,
-                  "Locked": false,
-                  "Grid": true,
-                  "Snap": true,
-                  "IgnoreFoW": false,
-                  "MeasureMovement": false,
-                  "DragSelectable": true,
-                  "Autoraise": true,
-                  "Sticky": true,
-                  "Tooltip": true,
-                  "GridProjection": false,
-                  "HideWhenFaceDown": true,
-                  "Hands": true,
-                  "CardID": 332203,
-                  "SidewaysCard": false,
-                  "CustomDeck": {
-                    "3322": {
-                      "FaceURL": "http://cloud-3.steamusercontent.com/ugc/942838965128938385/918C627E2D9C7C0D46CB14AC2ED233DBA6DA1D0E/",
-                      "BackURL": "http://cloud-3.steamusercontent.com/ugc/942832349457472314/500FFA1824D8A8B95E45274169050608782AC6EC/",
-                      "NumWidth": 3,
-                      "NumHeight": 3,
-                      "BackIsHidden": true,
-                      "UniqueBack": false,
-                      "Type": 0
-                    }
-                  },
-                  "LuaScript": "",
-                  "LuaScriptState": "",
-                  "XmlUI": ""
-                },
-                {
-                  "GUID": "836636",
-                  "Name": "Card",
-                  "Transform": {
-                    "posX": 30.6614017,
-                    "posY": 1.59498119,
-                    "posZ": -1.91412246,
-                    "rotX": 0.000655122451,
-                    "rotY": 270.022827,
-                    "rotZ": -0.001087091,
-                    "scaleX": 1.0,
-                    "scaleY": 1.0,
-                    "scaleZ": 1.0
-                  },
-                  "Nickname": "Whispers in Your Head (Doubt)",
-                  "Description": "",
-                  "GMNotes": "{\n  \"id\": \"dm0024\",\n  \"type\": \"Treachery\",\n  \"traits\": \"\",\n  \"hidden\": true,\n  \"cycle\": \"dark matter\"\n}",
-                  "AltLookAngle": {
-                    "x": 0.0,
-                    "y": 0.0,
-                    "z": 0.0
-                  },
-                  "ColorDiffuse": {
-                    "r": 0.713235259,
-                    "g": 0.713235259,
-                    "b": 0.713235259
-                  },
-                  "Tags": [
-                    "ScenarioCard"
-                  ],
-                  "LayoutGroupSortIndex": 0,
-                  "Value": 0,
-                  "Locked": false,
-                  "Grid": true,
-                  "Snap": true,
-                  "IgnoreFoW": false,
-                  "MeasureMovement": false,
-                  "DragSelectable": true,
-                  "Autoraise": true,
-                  "Sticky": true,
-                  "Tooltip": true,
-                  "GridProjection": false,
-                  "HideWhenFaceDown": true,
-                  "Hands": true,
-                  "CardID": 332205,
-                  "SidewaysCard": false,
-                  "CustomDeck": {
-                    "3322": {
-                      "FaceURL": "http://cloud-3.steamusercontent.com/ugc/942838965128938385/918C627E2D9C7C0D46CB14AC2ED233DBA6DA1D0E/",
-                      "BackURL": "http://cloud-3.steamusercontent.com/ugc/942832349457472314/500FFA1824D8A8B95E45274169050608782AC6EC/",
-                      "NumWidth": 3,
-                      "NumHeight": 3,
-                      "BackIsHidden": true,
-                      "UniqueBack": false,
-                      "Type": 0
-                    }
-                  },
-                  "LuaScript": "",
-                  "LuaScriptState": "",
-                  "XmlUI": ""
-                }
-              ]
-            },
-            {
-              "GUID": "cd555d",
-              "Name": "Deck",
-              "Transform": {
-                "posX": -0.0518796258,
-                "posY": 1.632815,
-                "posZ": 4.13604164,
-                "rotX": 2.22413359E-08,
-                "rotY": 270.019165,
-                "rotZ": 7.914182E-08,
-                "scaleX": 1.0,
-                "scaleY": 1.0,
-                "scaleZ": 1.0
-              },
-              "Nickname": "",
-              "Description": "",
-              "GMNotes": "",
-              "AltLookAngle": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
-              },
-              "ColorDiffuse": {
-                "r": 0.713235259,
-                "g": 0.713235259,
-                "b": 0.713235259
-              },
-              "Tags": [
-                "ScenarioCard"
-              ],
-              "LayoutGroupSortIndex": 0,
-              "Value": 0,
-              "Locked": false,
-              "Grid": true,
-              "Snap": true,
-              "IgnoreFoW": false,
-              "MeasureMovement": false,
-              "DragSelectable": true,
-              "Autoraise": true,
-              "Sticky": true,
-              "Tooltip": true,
-              "GridProjection": false,
-              "HideWhenFaceDown": true,
-              "Hands": false,
-              "SidewaysCard": false,
-              "DeckIDs": [
-                232821,
-                232822,
-                232819,
-                232820,
-                232823,
-                232823
-              ],
-              "CustomDeck": {
-                "2328": {
-                  "FaceURL": "https://cdn.discordapp.com/attachments/1190088801918390293/1190491179704406097/Loshin_TPTC_12.jpg?ex=65a1fe4f&is=658f894f&hm=fc11ad481b9a81972c5470f19f826ae625a2555e559692b6a6e774a15e13e162&",
-                  "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                "5858": {
+                  "FaceURL": "https://cdn.discordapp.com/attachments/1189869870452592820/1190484310843727953/Loshin_TPTC_15.jpg?ex=65a1f7e9&is=658f82e9&hm=814e462a45888d40fa33bc9f5c36bce850f231081f0a7ec2af7951ba7c583a79&",
+                  "BackURL": "https://cdn.discordapp.com/attachments/1189869870452592820/1190484299384889375/Loshin_TPTC_14.jpg?ex=65a1f7e7&is=658f82e7&hm=8b928b86c982f91657cd1596e2ca142582e497fc63bbad719a3368d595b1e0d5&",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
+                  "UniqueBack": true,
+                  "Type": 0
+                }
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": ""
+            },
+            {
+              "GUID": "3dd34b",
+              "Name": "CardCustom",
+              "Transform": {
+                "posX": -3.85000157,
+                "posY": 1.59660506,
+                "posZ": -10.3883076,
+                "rotX": -1.65666325E-08,
+                "rotY": 269.9981,
+                "rotZ": -1.64776655E-08,
+                "scaleX": 1.0,
+                "scaleY": 1.0,
+                "scaleZ": 1.0
+              },
+              "Nickname": "Scenario Reference Card",
+              "Description": "",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 0.713235259,
+                "g": 0.713235259,
+                "b": 0.713235259
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": true,
+              "Hands": true,
+              "CardID": 622600,
+              "SidewaysCard": false,
+              "CustomDeck": {
+                "6226": {
+                  "FaceURL": "http://cloud-3.steamusercontent.com/ugc/1806508520597322705/4A95ADCC57FC10593219AF3EC6EBF2CAC8962DC7/",
+                  "BackURL": "http://cloud-3.steamusercontent.com/ugc/1806508520597322968/ED05B353985B1E0AF797A86065C1B1193F231FB9/",
+                  "NumWidth": 1,
+                  "NumHeight": 1,
+                  "BackIsHidden": true,
                   "UniqueBack": false,
                   "Type": 0
                 }
               },
               "LuaScript": "",
               "LuaScriptState": "",
-              "XmlUI": "",
-              "ContainedObjects": [
-                {
-                  "GUID": "613256",
-                  "Name": "Card",
-                  "Transform": {
-                    "posX": 29.428009,
-                    "posY": 1.495173,
-                    "posZ": -7.2423296,
-                    "rotX": -0.0005596705,
-                    "rotY": 270.019684,
-                    "rotZ": 0.004522841,
-                    "scaleX": 1.0,
-                    "scaleY": 1.0,
-                    "scaleZ": 1.0
-                  },
-                  "Nickname": "Visions in Your Mind (Death)",
-                  "Description": "Terror.",
-                  "GMNotes": "{\n  \"id\": \"dm0028\",\n  \"type\": \"Treachery\",\n  \"traits\": \"\",\n  \"hidden\": true,\n  \"cycle\": \"dark matter\"\n}",
-                  "AltLookAngle": {
-                    "x": 0.0,
-                    "y": 0.0,
-                    "z": 0.0
-                  },
-                  "ColorDiffuse": {
-                    "r": 0.713235259,
-                    "g": 0.713235259,
-                    "b": 0.713235259
-                  },
-                  "Tags": [
-                    "ScenarioCard"
-                  ],
-                  "LayoutGroupSortIndex": 0,
-                  "Value": 0,
-                  "Locked": false,
-                  "Grid": true,
-                  "Snap": true,
-                  "IgnoreFoW": false,
-                  "MeasureMovement": false,
-                  "DragSelectable": true,
-                  "Autoraise": true,
-                  "Sticky": true,
-                  "Tooltip": true,
-                  "GridProjection": false,
-                  "HideWhenFaceDown": true,
-                  "Hands": true,
-                  "CardID": 232821,
-                  "SidewaysCard": false,
-                  "CustomDeck": {
-                    "2328": {
-                      "FaceURL": "https://cdn.discordapp.com/attachments/1190088801918390293/1190491179704406097/Loshin_TPTC_12.jpg?ex=65a1fe4f&is=658f894f&hm=fc11ad481b9a81972c5470f19f826ae625a2555e559692b6a6e774a15e13e162&",
-                      "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
-                      "NumWidth": 10,
-                      "NumHeight": 7,
-                      "BackIsHidden": true,
-                      "UniqueBack": false,
-                      "Type": 0
-                    }
-                  },
-                  "LuaScript": "",
-                  "LuaScriptState": "",
-                  "XmlUI": ""
-                },
-                {
-                  "GUID": "a92ef8",
-                  "Name": "Card",
-                  "Transform": {
-                    "posX": 29.49693,
-                    "posY": 1.53833032,
-                    "posZ": -6.79352856,
-                    "rotX": 359.9778,
-                    "rotY": 270.0086,
-                    "rotZ": 359.955353,
-                    "scaleX": 1.0,
-                    "scaleY": 1.0,
-                    "scaleZ": 1.0
-                  },
-                  "Nickname": "Visions in Your Mind (Hatred)",
-                  "Description": "Terror.",
-                  "GMNotes": "{\n  \"id\": \"dm0029\",\n  \"type\": \"Treachery\",\n  \"traits\": \"\",\n  \"hidden\": true,\n  \"cycle\": \"dark matter\"\n}",
-                  "AltLookAngle": {
-                    "x": 0.0,
-                    "y": 0.0,
-                    "z": 0.0
-                  },
-                  "ColorDiffuse": {
-                    "r": 0.713235259,
-                    "g": 0.713235259,
-                    "b": 0.713235259
-                  },
-                  "Tags": [
-                    "ScenarioCard"
-                  ],
-                  "LayoutGroupSortIndex": 0,
-                  "Value": 0,
-                  "Locked": false,
-                  "Grid": true,
-                  "Snap": true,
-                  "IgnoreFoW": false,
-                  "MeasureMovement": false,
-                  "DragSelectable": true,
-                  "Autoraise": true,
-                  "Sticky": true,
-                  "Tooltip": true,
-                  "GridProjection": false,
-                  "HideWhenFaceDown": true,
-                  "Hands": true,
-                  "CardID": 232822,
-                  "SidewaysCard": false,
-                  "CustomDeck": {
-                    "2328": {
-                      "FaceURL": "https://cdn.discordapp.com/attachments/1190088801918390293/1190491179704406097/Loshin_TPTC_12.jpg?ex=65a1fe4f&is=658f894f&hm=fc11ad481b9a81972c5470f19f826ae625a2555e559692b6a6e774a15e13e162&",
-                      "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
-                      "NumWidth": 10,
-                      "NumHeight": 7,
-                      "BackIsHidden": true,
-                      "UniqueBack": false,
-                      "Type": 0
-                    }
-                  },
-                  "LuaScript": "",
-                  "LuaScriptState": "",
-                  "XmlUI": ""
-                },
-                {
-                  "GUID": "5987af",
-                  "Name": "Card",
-                  "Transform": {
-                    "posX": 29.1429329,
-                    "posY": 1.56928885,
-                    "posZ": -6.83585453,
-                    "rotX": -0.000463739154,
-                    "rotY": 270.007629,
-                    "rotZ": 0.174237162,
-                    "scaleX": 1.0,
-                    "scaleY": 1.0,
-                    "scaleZ": 1.0
-                  },
-                  "Nickname": "Visions in Your Mind (Horrors)",
-                  "Description": "Terror.",
-                  "GMNotes": "{\n  \"id\": \"dm0027\",\n  \"type\": \"Treachery\",\n  \"traits\": \"\",\n  \"hidden\": true,\n  \"cycle\": \"dark matter\"\n}",
-                  "AltLookAngle": {
-                    "x": 0.0,
-                    "y": 0.0,
-                    "z": 0.0
-                  },
-                  "ColorDiffuse": {
-                    "r": 0.713235259,
-                    "g": 0.713235259,
-                    "b": 0.713235259
-                  },
-                  "Tags": [
-                    "ScenarioCard"
-                  ],
-                  "LayoutGroupSortIndex": 0,
-                  "Value": 0,
-                  "Locked": false,
-                  "Grid": true,
-                  "Snap": true,
-                  "IgnoreFoW": false,
-                  "MeasureMovement": false,
-                  "DragSelectable": true,
-                  "Autoraise": true,
-                  "Sticky": true,
-                  "Tooltip": true,
-                  "GridProjection": false,
-                  "HideWhenFaceDown": true,
-                  "Hands": true,
-                  "CardID": 232819,
-                  "SidewaysCard": false,
-                  "CustomDeck": {
-                    "2328": {
-                      "FaceURL": "https://cdn.discordapp.com/attachments/1190088801918390293/1190491179704406097/Loshin_TPTC_12.jpg?ex=65a1fe4f&is=658f894f&hm=fc11ad481b9a81972c5470f19f826ae625a2555e559692b6a6e774a15e13e162&",
-                      "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
-                      "NumWidth": 10,
-                      "NumHeight": 7,
-                      "BackIsHidden": true,
-                      "UniqueBack": false,
-                      "Type": 0
-                    }
-                  },
-                  "LuaScript": "",
-                  "LuaScriptState": "",
-                  "XmlUI": ""
-                },
-                {
-                  "GUID": "ca4b6d",
-                  "Name": "Card",
-                  "Transform": {
-                    "posX": 29.370266,
-                    "posY": 1.58876312,
-                    "posZ": -7.61893654,
-                    "rotX": 0.000343937369,
-                    "rotY": 270.023621,
-                    "rotZ": 0.7675849,
-                    "scaleX": 1.0,
-                    "scaleY": 1.0,
-                    "scaleZ": 1.0
-                  },
-                  "Nickname": "Visions in Your Mind (Failure)",
-                  "Description": "Terror.",
-                  "GMNotes": "{\n  \"id\": \"dm0026\",\n  \"type\": \"Treachery\",\n  \"traits\": \"\",\n  \"hidden\": true,\n  \"cycle\": \"dark matter\"\n}",
-                  "AltLookAngle": {
-                    "x": 0.0,
-                    "y": 0.0,
-                    "z": 0.0
-                  },
-                  "ColorDiffuse": {
-                    "r": 0.713235259,
-                    "g": 0.713235259,
-                    "b": 0.713235259
-                  },
-                  "Tags": [
-                    "ScenarioCard"
-                  ],
-                  "LayoutGroupSortIndex": 0,
-                  "Value": 0,
-                  "Locked": false,
-                  "Grid": true,
-                  "Snap": true,
-                  "IgnoreFoW": false,
-                  "MeasureMovement": false,
-                  "DragSelectable": true,
-                  "Autoraise": true,
-                  "Sticky": true,
-                  "Tooltip": true,
-                  "GridProjection": false,
-                  "HideWhenFaceDown": true,
-                  "Hands": true,
-                  "CardID": 232820,
-                  "SidewaysCard": false,
-                  "CustomDeck": {
-                    "2328": {
-                      "FaceURL": "https://cdn.discordapp.com/attachments/1190088801918390293/1190491179704406097/Loshin_TPTC_12.jpg?ex=65a1fe4f&is=658f894f&hm=fc11ad481b9a81972c5470f19f826ae625a2555e559692b6a6e774a15e13e162&",
-                      "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
-                      "NumWidth": 10,
-                      "NumHeight": 7,
-                      "BackIsHidden": true,
-                      "UniqueBack": false,
-                      "Type": 0
-                    }
-                  },
-                  "LuaScript": "",
-                  "LuaScriptState": "",
-                  "XmlUI": ""
-                },
-                {
-                  "GUID": "dd93e2",
-                  "Name": "Card",
-                  "Transform": {
-                    "posX": 29.5120277,
-                    "posY": 1.58525419,
-                    "posZ": -7.885636,
-                    "rotX": 0.00134759035,
-                    "rotY": 270.0229,
-                    "rotZ": 0.00044364162,
-                    "scaleX": 1.0,
-                    "scaleY": 1.0,
-                    "scaleZ": 1.0
-                  },
-                  "Nickname": "Maddening Delusions",
-                  "Description": "Terror.",
-                  "GMNotes": "",
-                  "AltLookAngle": {
-                    "x": 0.0,
-                    "y": 0.0,
-                    "z": 0.0
-                  },
-                  "ColorDiffuse": {
-                    "r": 0.713235259,
-                    "g": 0.713235259,
-                    "b": 0.713235259
-                  },
-                  "Tags": [
-                    "ScenarioCard"
-                  ],
-                  "LayoutGroupSortIndex": 0,
-                  "Value": 0,
-                  "Locked": false,
-                  "Grid": true,
-                  "Snap": true,
-                  "IgnoreFoW": false,
-                  "MeasureMovement": false,
-                  "DragSelectable": true,
-                  "Autoraise": true,
-                  "Sticky": true,
-                  "Tooltip": true,
-                  "GridProjection": false,
-                  "HideWhenFaceDown": true,
-                  "Hands": true,
-                  "CardID": 232823,
-                  "SidewaysCard": false,
-                  "CustomDeck": {
-                    "2328": {
-                      "FaceURL": "https://cdn.discordapp.com/attachments/1190088801918390293/1190491179704406097/Loshin_TPTC_12.jpg?ex=65a1fe4f&is=658f894f&hm=fc11ad481b9a81972c5470f19f826ae625a2555e559692b6a6e774a15e13e162&",
-                      "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
-                      "NumWidth": 10,
-                      "NumHeight": 7,
-                      "BackIsHidden": true,
-                      "UniqueBack": false,
-                      "Type": 0
-                    }
-                  },
-                  "LuaScript": "",
-                  "LuaScriptState": "",
-                  "XmlUI": ""
-                },
-                {
-                  "GUID": "3effb8",
-                  "Name": "Card",
-                  "Transform": {
-                    "posX": 29.781004,
-                    "posY": 1.59497869,
-                    "posZ": -7.09211731,
-                    "rotX": 0.000896027952,
-                    "rotY": 270.018219,
-                    "rotZ": -0.0009035182,
-                    "scaleX": 1.0,
-                    "scaleY": 1.0,
-                    "scaleZ": 1.0
-                  },
-                  "Nickname": "Maddening Delusions",
-                  "Description": "Terror.",
-                  "GMNotes": "",
-                  "AltLookAngle": {
-                    "x": 0.0,
-                    "y": 0.0,
-                    "z": 0.0
-                  },
-                  "ColorDiffuse": {
-                    "r": 0.713235259,
-                    "g": 0.713235259,
-                    "b": 0.713235259
-                  },
-                  "Tags": [
-                    "ScenarioCard"
-                  ],
-                  "LayoutGroupSortIndex": 0,
-                  "Value": 0,
-                  "Locked": false,
-                  "Grid": true,
-                  "Snap": true,
-                  "IgnoreFoW": false,
-                  "MeasureMovement": false,
-                  "DragSelectable": true,
-                  "Autoraise": true,
-                  "Sticky": true,
-                  "Tooltip": true,
-                  "GridProjection": false,
-                  "HideWhenFaceDown": true,
-                  "Hands": true,
-                  "CardID": 232823,
-                  "SidewaysCard": false,
-                  "CustomDeck": {
-                    "2328": {
-                      "FaceURL": "https://cdn.discordapp.com/attachments/1190088801918390293/1190491179704406097/Loshin_TPTC_12.jpg?ex=65a1fe4f&is=658f894f&hm=fc11ad481b9a81972c5470f19f826ae625a2555e559692b6a6e774a15e13e162&",
-                      "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
-                      "NumWidth": 10,
-                      "NumHeight": 7,
-                      "BackIsHidden": true,
-                      "UniqueBack": false,
-                      "Type": 0
-                    }
-                  },
-                  "LuaScript": "",
-                  "LuaScriptState": "",
-                  "XmlUI": ""
+              "XmlUI": ""
+            },
+            {
+              "GUID": "3e4d11",
+              "Name": "Card",
+              "Transform": {
+                "posX": -17.11969,
+                "posY": 1.53360486,
+                "posZ": -0.0300000031,
+                "rotX": 3.82919074E-09,
+                "rotY": 269.99823,
+                "rotZ": -6.39352038E-08,
+                "scaleX": 1.0,
+                "scaleY": 1.0,
+                "scaleZ": 1.0
+              },
+              "Nickname": "Balcony",
+              "Description": "",
+              "GMNotes": "{\n  \"id\": \"03051\",\n  \"type\": \"Location\",\n  \"cycle\": \"The Path to Carcosa\",\n  \"locationFront\": {\n    \"icons\": \"Square\",\n    \"connections\": \"Circle|Triangle\"\n  },\n  \"locationBack\": {\n    \"victory\": 1,\n    \"icons\": \"Square\",\n    \"connections\": \"Circle|Triangle\",\n    \"uses\": [\n      {\n        \"countPerInvestigator\": 1,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 0.713235259,
+                "g": 0.713235259,
+                "b": 0.713235259
+              },
+              "Tags": [
+                "Location",
+                "ScenarioCard"
+              ],
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": false,
+              "Hands": true,
+              "CardID": 585903,
+              "SidewaysCard": false,
+              "CustomDeck": {
+                "5859": {
+                  "FaceURL": "https://cdn.discordapp.com/attachments/1189869870452592820/1190484310843727953/Loshin_TPTC_15.jpg?ex=65a1f7e9&is=658f82e9&hm=814e462a45888d40fa33bc9f5c36bce850f231081f0a7ec2af7951ba7c583a79&",
+                  "BackURL": "https://cdn.discordapp.com/attachments/1189869870452592820/1190484299384889375/Loshin_TPTC_14.jpg?ex=65a1f7e7&is=658f82e7&hm=8b928b86c982f91657cd1596e2ca142582e497fc63bbad719a3368d595b1e0d5&",
+                  "NumWidth": 10,
+                  "NumHeight": 7,
+                  "BackIsHidden": true,
+                  "UniqueBack": true,
+                  "Type": 0
                 }
-              ]
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": ""
             },
             {
               "GUID": "55261e",
               "Name": "Deck",
               "Transform": {
-                "posX": -3.92853951,
+                "posX": -3.92850161,
                 "posY": 1.72428167,
-                "posZ": 5.720214,
-                "rotX": -2.223886E-07,
-                "rotY": 270.002075,
+                "posZ": 5.72020435,
+                "rotX": -1.39035564E-07,
+                "rotY": 270.0021,
                 "rotZ": 180.0,
                 "scaleX": 1.0,
                 "scaleY": 1.0,
@@ -17984,22 +17541,22 @@
               ]
             },
             {
-              "GUID": "11afcc",
-              "Name": "Deck",
+              "GUID": "592384",
+              "Name": "Card",
               "Transform": {
-                "posX": -2.94001913,
-                "posY": 1.61837292,
-                "posZ": 0.393015563,
-                "rotX": 1.98772945E-08,
-                "rotY": 180.027023,
-                "rotZ": -1.63441918E-08,
+                "posX": -23.6765,
+                "posY": 1.53360486,
+                "posZ": -0.03000008,
+                "rotX": 3.72636642E-08,
+                "rotY": 269.9985,
+                "rotZ": 8.93723E-09,
                 "scaleX": 1.0,
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Agenda Deck",
+              "Nickname": "Theatre",
               "Description": "",
-              "GMNotes": "",
+              "GMNotes": "{\n  \"id\": \"03049\",\n  \"type\": \"Location\",\n  \"cycle\": \"The Path to Carcosa\",\n  \"locationFront\": {\n    \"icons\": \"Circle\",\n    \"connections\": \"Diamond|Triangle\"\n  },\n  \"locationBack\": {\n    \"icons\": \"Circle\",\n    \"connections\": \"Diamond|Triangle\"\n  }\n}",
               "AltLookAngle": {
                 "x": 0.0,
                 "y": 0.0,
@@ -18010,6 +17567,10 @@
                 "g": 0.713235259,
                 "b": 0.713235259
               },
+              "Tags": [
+                "Location",
+                "ScenarioCard"
+              ],
               "LayoutGroupSortIndex": 0,
               "Value": 0,
               "Locked": false,
@@ -18022,233 +17583,35 @@
               "Sticky": true,
               "Tooltip": true,
               "GridProjection": false,
-              "HideWhenFaceDown": true,
-              "Hands": false,
-              "SidewaysCard": true,
-              "DeckIDs": [
-                623700,
-                625400,
-                625500
-              ],
+              "HideWhenFaceDown": false,
+              "Hands": true,
+              "CardID": 586001,
+              "SidewaysCard": false,
               "CustomDeck": {
-                "6237": {
-                  "FaceURL": "http://cloud-3.steamusercontent.com/ugc/1806508520597333718/BBB4FB4A90FAE3F01E7C7FD5DA29971A9512059E/",
-                  "BackURL": "http://cloud-3.steamusercontent.com/ugc/1806508520597333945/FE69AA5E29600FB46A047F43AA160AC3565BCBCE/",
-                  "NumWidth": 1,
-                  "NumHeight": 1,
+                "5860": {
+                  "FaceURL": "https://cdn.discordapp.com/attachments/1189869870452592820/1190484310843727953/Loshin_TPTC_15.jpg?ex=65a1f7e9&is=658f82e9&hm=814e462a45888d40fa33bc9f5c36bce850f231081f0a7ec2af7951ba7c583a79&",
+                  "BackURL": "https://cdn.discordapp.com/attachments/1189869870452592820/1190484299384889375/Loshin_TPTC_14.jpg?ex=65a1f7e7&is=658f82e7&hm=8b928b86c982f91657cd1596e2ca142582e497fc63bbad719a3368d595b1e0d5&",
+                  "NumWidth": 10,
+                  "NumHeight": 7,
                   "BackIsHidden": true,
-                  "UniqueBack": false,
-                  "Type": 0
-                },
-                "6254": {
-                  "FaceURL": "http://cloud-3.steamusercontent.com/ugc/1806508520597332828/84EB8D6C7DAA36822085E45993D04AAB45ADE37D/",
-                  "BackURL": "http://cloud-3.steamusercontent.com/ugc/1806508520597333069/00E8C49ED5AC2212FC3F2DF8C9E3AA7848ACE51D/",
-                  "NumWidth": 1,
-                  "NumHeight": 1,
-                  "BackIsHidden": true,
-                  "UniqueBack": false,
-                  "Type": 0
-                },
-                "6255": {
-                  "FaceURL": "http://cloud-3.steamusercontent.com/ugc/1806508520597331916/2FC972BB16EDFFA305B22E89A9B887A9FE7FD66A/",
-                  "BackURL": "http://cloud-3.steamusercontent.com/ugc/1806508520597332184/3F6C92B03D3C45D4928500B5DCDF60BC620414F6/",
-                  "NumWidth": 1,
-                  "NumHeight": 1,
-                  "BackIsHidden": true,
-                  "UniqueBack": false,
+                  "UniqueBack": true,
                   "Type": 0
                 }
               },
               "LuaScript": "",
               "LuaScriptState": "",
-              "XmlUI": "",
-              "ContainedObjects": [
-                {
-                  "GUID": "979c1e",
-                  "Name": "CardCustom",
-                  "Transform": {
-                    "posX": 0.105549067,
-                    "posY": 1.27292812,
-                    "posZ": 50.8255,
-                    "rotX": 0.0227676257,
-                    "rotY": 180.211761,
-                    "rotZ": 359.937836,
-                    "scaleX": 1.0,
-                    "scaleY": 1.0,
-                    "scaleZ": 1.0
-                  },
-                  "Nickname": "Agenda 3",
-                  "Description": "",
-                  "GMNotes": "",
-                  "AltLookAngle": {
-                    "x": 0.0,
-                    "y": 0.0,
-                    "z": 0.0
-                  },
-                  "ColorDiffuse": {
-                    "r": 0.713235259,
-                    "g": 0.713235259,
-                    "b": 0.713235259
-                  },
-                  "LayoutGroupSortIndex": 0,
-                  "Value": 0,
-                  "Locked": false,
-                  "Grid": true,
-                  "Snap": true,
-                  "IgnoreFoW": false,
-                  "MeasureMovement": false,
-                  "DragSelectable": true,
-                  "Autoraise": true,
-                  "Sticky": true,
-                  "Tooltip": true,
-                  "GridProjection": false,
-                  "HideWhenFaceDown": true,
-                  "Hands": true,
-                  "CardID": 623700,
-                  "SidewaysCard": true,
-                  "CustomDeck": {
-                    "6237": {
-                      "FaceURL": "http://cloud-3.steamusercontent.com/ugc/1806508520597333718/BBB4FB4A90FAE3F01E7C7FD5DA29971A9512059E/",
-                      "BackURL": "http://cloud-3.steamusercontent.com/ugc/1806508520597333945/FE69AA5E29600FB46A047F43AA160AC3565BCBCE/",
-                      "NumWidth": 1,
-                      "NumHeight": 1,
-                      "BackIsHidden": true,
-                      "UniqueBack": false,
-                      "Type": 0
-                    }
-                  },
-                  "LuaScript": "",
-                  "LuaScriptState": "",
-                  "XmlUI": ""
-                },
-                {
-                  "GUID": "ded02f",
-                  "Name": "CardCustom",
-                  "Transform": {
-                    "posX": 0.5446564,
-                    "posY": 1.30266666,
-                    "posZ": 50.5353546,
-                    "rotX": 0.08064742,
-                    "rotY": 180.0024,
-                    "rotZ": 0.00373343681,
-                    "scaleX": 1.0,
-                    "scaleY": 1.0,
-                    "scaleZ": 1.0
-                  },
-                  "Nickname": "Agenda 2",
-                  "Description": "",
-                  "GMNotes": "",
-                  "AltLookAngle": {
-                    "x": 0.0,
-                    "y": 0.0,
-                    "z": 0.0
-                  },
-                  "ColorDiffuse": {
-                    "r": 0.713235259,
-                    "g": 0.713235259,
-                    "b": 0.713235259
-                  },
-                  "LayoutGroupSortIndex": 0,
-                  "Value": 0,
-                  "Locked": false,
-                  "Grid": true,
-                  "Snap": true,
-                  "IgnoreFoW": false,
-                  "MeasureMovement": false,
-                  "DragSelectable": true,
-                  "Autoraise": true,
-                  "Sticky": true,
-                  "Tooltip": true,
-                  "GridProjection": false,
-                  "HideWhenFaceDown": true,
-                  "Hands": true,
-                  "CardID": 625400,
-                  "SidewaysCard": true,
-                  "CustomDeck": {
-                    "6236": {
-                      "FaceURL": "http://cloud-3.steamusercontent.com/ugc/1806508520597332828/84EB8D6C7DAA36822085E45993D04AAB45ADE37D/",
-                      "BackURL": "http://cloud-3.steamusercontent.com/ugc/1806508520597333069/00E8C49ED5AC2212FC3F2DF8C9E3AA7848ACE51D/",
-                      "NumWidth": 1,
-                      "NumHeight": 1,
-                      "BackIsHidden": true,
-                      "UniqueBack": false,
-                      "Type": 0
-                    }
-                  },
-                  "LuaScript": "",
-                  "LuaScriptState": "",
-                  "XmlUI": ""
-                },
-                {
-                  "GUID": "ae36d7",
-                  "Name": "CardCustom",
-                  "Transform": {
-                    "posX": -0.00146876532,
-                    "posY": 1.33867133,
-                    "posZ": 50.6349144,
-                    "rotX": 0.0161359236,
-                    "rotY": 180.017,
-                    "rotZ": 359.9796,
-                    "scaleX": 1.0,
-                    "scaleY": 1.0,
-                    "scaleZ": 1.0
-                  },
-                  "Nickname": "Agenda 1",
-                  "Description": "",
-                  "GMNotes": "",
-                  "AltLookAngle": {
-                    "x": 0.0,
-                    "y": 0.0,
-                    "z": 0.0
-                  },
-                  "ColorDiffuse": {
-                    "r": 0.713235259,
-                    "g": 0.713235259,
-                    "b": 0.713235259
-                  },
-                  "LayoutGroupSortIndex": 0,
-                  "Value": 0,
-                  "Locked": false,
-                  "Grid": true,
-                  "Snap": true,
-                  "IgnoreFoW": false,
-                  "MeasureMovement": false,
-                  "DragSelectable": true,
-                  "Autoraise": true,
-                  "Sticky": true,
-                  "Tooltip": true,
-                  "GridProjection": false,
-                  "HideWhenFaceDown": true,
-                  "Hands": true,
-                  "CardID": 625500,
-                  "SidewaysCard": true,
-                  "CustomDeck": {
-                    "6235": {
-                      "FaceURL": "http://cloud-3.steamusercontent.com/ugc/1806508520597331916/2FC972BB16EDFFA305B22E89A9B887A9FE7FD66A/",
-                      "BackURL": "http://cloud-3.steamusercontent.com/ugc/1806508520597332184/3F6C92B03D3C45D4928500B5DCDF60BC620414F6/",
-                      "NumWidth": 1,
-                      "NumHeight": 1,
-                      "BackIsHidden": true,
-                      "UniqueBack": false,
-                      "Type": 0
-                    }
-                  },
-                  "LuaScript": "",
-                  "LuaScriptState": "",
-                  "XmlUI": ""
-                }
-              ]
+              "XmlUI": ""
             },
             {
               "GUID": "5cd035",
               "Name": "Deck",
               "Transform": {
-                "posX": -2.94002175,
+                "posX": -2.94000149,
                 "posY": 1.61837292,
-                "posZ": -5.10418,
-                "rotX": 2.55199719E-08,
-                "rotY": 180.028,
-                "rotZ": 6.3453534E-08,
+                "posZ": -5.104203,
+                "rotX": -6.893826E-08,
+                "rotY": 180.028015,
+                "rotZ": -8.170718E-08,
                 "scaleX": 1.0,
                 "scaleY": 1.0,
                 "scaleZ": 1.0
@@ -18496,197 +17859,15 @@
               ]
             },
             {
-              "GUID": "3dd34b",
-              "Name": "CardCustom",
-              "Transform": {
-                "posX": -3.85003543,
-                "posY": 1.59660506,
-                "posZ": -10.3882647,
-                "rotX": 3.00350358E-08,
-                "rotY": 269.998077,
-                "rotZ": 3.12416546E-08,
-                "scaleX": 1.0,
-                "scaleY": 1.0,
-                "scaleZ": 1.0
-              },
-              "Nickname": "Scenario Reference Card",
-              "Description": "",
-              "GMNotes": "",
-              "AltLookAngle": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
-              },
-              "ColorDiffuse": {
-                "r": 0.713235259,
-                "g": 0.713235259,
-                "b": 0.713235259
-              },
-              "LayoutGroupSortIndex": 0,
-              "Value": 0,
-              "Locked": false,
-              "Grid": true,
-              "Snap": true,
-              "IgnoreFoW": false,
-              "MeasureMovement": false,
-              "DragSelectable": true,
-              "Autoraise": true,
-              "Sticky": true,
-              "Tooltip": true,
-              "GridProjection": false,
-              "HideWhenFaceDown": true,
-              "Hands": true,
-              "CardID": 622600,
-              "SidewaysCard": false,
-              "CustomDeck": {
-                "6226": {
-                  "FaceURL": "http://cloud-3.steamusercontent.com/ugc/1806508520597322705/4A95ADCC57FC10593219AF3EC6EBF2CAC8962DC7/",
-                  "BackURL": "http://cloud-3.steamusercontent.com/ugc/1806508520597322968/ED05B353985B1E0AF797A86065C1B1193F231FB9/",
-                  "NumWidth": 1,
-                  "NumHeight": 1,
-                  "BackIsHidden": true,
-                  "UniqueBack": false,
-                  "Type": 0
-                }
-              },
-              "LuaScript": "",
-              "LuaScriptState": "",
-              "XmlUI": ""
-            },
-            {
-              "GUID": "3e4d11",
-              "Name": "Card",
-              "Transform": {
-                "posX": -17.1197472,
-                "posY": 1.53360486,
-                "posZ": -0.0300017726,
-                "rotX": 8.675982E-08,
-                "rotY": 269.998169,
-                "rotZ": -1.13449978E-07,
-                "scaleX": 1.0,
-                "scaleY": 1.0,
-                "scaleZ": 1.0
-              },
-              "Nickname": "Balcony",
-              "Description": "",
-              "GMNotes": "{\n  \"id\": \"03051\",\n  \"type\": \"Location\",\n  \"cycle\": \"The Path to Carcosa\",\n  \"locationFront\": {\n    \"icons\": \"Square\",\n    \"connections\": \"Circle|Triangle\"\n  },\n  \"locationBack\": {\n    \"victory\": 1,\n    \"icons\": \"Square\",\n    \"connections\": \"Circle|Triangle\",\n    \"uses\": [\n      {\n        \"countPerInvestigator\": 1,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
-              "AltLookAngle": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
-              },
-              "ColorDiffuse": {
-                "r": 0.713235259,
-                "g": 0.713235259,
-                "b": 0.713235259
-              },
-              "Tags": [
-                "Location",
-                "ScenarioCard"
-              ],
-              "LayoutGroupSortIndex": 0,
-              "Value": 0,
-              "Locked": false,
-              "Grid": true,
-              "Snap": true,
-              "IgnoreFoW": false,
-              "MeasureMovement": false,
-              "DragSelectable": true,
-              "Autoraise": true,
-              "Sticky": true,
-              "Tooltip": true,
-              "GridProjection": false,
-              "HideWhenFaceDown": false,
-              "Hands": true,
-              "CardID": 585903,
-              "SidewaysCard": false,
-              "CustomDeck": {
-                "5859": {
-                  "FaceURL": "https://cdn.discordapp.com/attachments/1189869870452592820/1190484310843727953/Loshin_TPTC_15.jpg?ex=65a1f7e9&is=658f82e9&hm=814e462a45888d40fa33bc9f5c36bce850f231081f0a7ec2af7951ba7c583a79&",
-                  "BackURL": "https://cdn.discordapp.com/attachments/1189869870452592820/1190484299384889375/Loshin_TPTC_14.jpg?ex=65a1f7e7&is=658f82e7&hm=8b928b86c982f91657cd1596e2ca142582e497fc63bbad719a3368d595b1e0d5&",
-                  "NumWidth": 10,
-                  "NumHeight": 7,
-                  "BackIsHidden": true,
-                  "UniqueBack": true,
-                  "Type": 0
-                }
-              },
-              "LuaScript": "",
-              "LuaScriptState": "",
-              "XmlUI": ""
-            },
-            {
-              "GUID": "592384",
-              "Name": "Card",
-              "Transform": {
-                "posX": -23.6765,
-                "posY": 1.53360486,
-                "posZ": -0.0300072264,
-                "rotX": 1.70757826E-08,
-                "rotY": 269.9985,
-                "rotZ": 9.070948E-09,
-                "scaleX": 1.0,
-                "scaleY": 1.0,
-                "scaleZ": 1.0
-              },
-              "Nickname": "Theatre",
-              "Description": "",
-              "GMNotes": "{\n  \"id\": \"03049\",\n  \"type\": \"Location\",\n  \"cycle\": \"The Path to Carcosa\",\n  \"locationFront\": {\n    \"icons\": \"Circle\",\n    \"connections\": \"Diamond|Triangle\"\n  },\n  \"locationBack\": {\n    \"icons\": \"Circle\",\n    \"connections\": \"Diamond|Triangle\"\n  }\n}",
-              "AltLookAngle": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
-              },
-              "ColorDiffuse": {
-                "r": 0.713235259,
-                "g": 0.713235259,
-                "b": 0.713235259
-              },
-              "Tags": [
-                "Location",
-                "ScenarioCard"
-              ],
-              "LayoutGroupSortIndex": 0,
-              "Value": 0,
-              "Locked": false,
-              "Grid": true,
-              "Snap": true,
-              "IgnoreFoW": false,
-              "MeasureMovement": false,
-              "DragSelectable": true,
-              "Autoraise": true,
-              "Sticky": true,
-              "Tooltip": true,
-              "GridProjection": false,
-              "HideWhenFaceDown": false,
-              "Hands": true,
-              "CardID": 586001,
-              "SidewaysCard": false,
-              "CustomDeck": {
-                "5860": {
-                  "FaceURL": "https://cdn.discordapp.com/attachments/1189869870452592820/1190484310843727953/Loshin_TPTC_15.jpg?ex=65a1f7e9&is=658f82e9&hm=814e462a45888d40fa33bc9f5c36bce850f231081f0a7ec2af7951ba7c583a79&",
-                  "BackURL": "https://cdn.discordapp.com/attachments/1189869870452592820/1190484299384889375/Loshin_TPTC_14.jpg?ex=65a1f7e7&is=658f82e7&hm=8b928b86c982f91657cd1596e2ca142582e497fc63bbad719a3368d595b1e0d5&",
-                  "NumWidth": 10,
-                  "NumHeight": 7,
-                  "BackIsHidden": true,
-                  "UniqueBack": true,
-                  "Type": 0
-                }
-              },
-              "LuaScript": "",
-              "LuaScriptState": "",
-              "XmlUI": ""
-            },
-            {
               "GUID": "67a96b",
               "Name": "Card",
               "Transform": {
-                "posX": -23.67656,
+                "posX": -23.6765938,
                 "posY": 1.53360486,
-                "posZ": 7.57021761,
-                "rotX": -1.0785822E-08,
-                "rotY": 269.997528,
-                "rotZ": 1.21751391E-08,
+                "posZ": 7.570205,
+                "rotX": 9.758806E-08,
+                "rotY": 269.9974,
+                "rotZ": -1.2799886E-07,
                 "scaleX": 1.0,
                 "scaleY": 1.0,
                 "scaleZ": 1.0
@@ -18740,22 +17921,22 @@
               "XmlUI": ""
             },
             {
-              "GUID": "37e3f9",
-              "Name": "Card",
+              "GUID": "cd555d",
+              "Name": "Deck",
               "Transform": {
-                "posX": -23.6765442,
-                "posY": 1.53360486,
-                "posZ": -7.70021534,
-                "rotX": -2.87031665E-09,
-                "rotY": 269.998352,
-                "rotZ": -1.23112978E-08,
+                "posX": -0.05189846,
+                "posY": 1.632815,
+                "posZ": 4.13600349,
+                "rotX": -7.194472E-08,
+                "rotY": 270.019135,
+                "rotZ": 7.820835E-09,
                 "scaleX": 1.0,
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Backstage",
+              "Nickname": "",
               "Description": "",
-              "GMNotes": "{\n  \"id\": \"03052\",\n  \"type\": \"Location\",\n  \"cycle\": \"The Path to Carcosa\",\n  \"locationFront\": {\n    \"icons\": \"Diamond\",\n    \"connections\": \"Circle|Crescent\"\n  },\n  \"locationBack\": {\n    \"icons\": \"Diamond\",\n    \"connections\": \"Circle|Crescent\",\n    \"uses\": [\n      {\n        \"count\": 1,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
+              "GMNotes": "",
               "AltLookAngle": {
                 "x": 0.0,
                 "y": 0.0,
@@ -18767,7 +17948,6 @@
                 "b": 0.713235259
               },
               "Tags": [
-                "Location",
                 "ScenarioCard"
               ],
               "LayoutGroupSortIndex": 0,
@@ -18782,24 +17962,844 @@
               "Sticky": true,
               "Tooltip": true,
               "GridProjection": false,
-              "HideWhenFaceDown": false,
-              "Hands": true,
-              "CardID": 585804,
+              "HideWhenFaceDown": true,
+              "Hands": false,
               "SidewaysCard": false,
+              "DeckIDs": [
+                232821,
+                232822,
+                232819,
+                232820,
+                232823,
+                232823
+              ],
               "CustomDeck": {
-                "5858": {
-                  "FaceURL": "https://cdn.discordapp.com/attachments/1189869870452592820/1190484310843727953/Loshin_TPTC_15.jpg?ex=65a1f7e9&is=658f82e9&hm=814e462a45888d40fa33bc9f5c36bce850f231081f0a7ec2af7951ba7c583a79&",
-                  "BackURL": "https://cdn.discordapp.com/attachments/1189869870452592820/1190484299384889375/Loshin_TPTC_14.jpg?ex=65a1f7e7&is=658f82e7&hm=8b928b86c982f91657cd1596e2ca142582e497fc63bbad719a3368d595b1e0d5&",
+                "2328": {
+                  "FaceURL": "https://cdn.discordapp.com/attachments/1190088801918390293/1190491179704406097/Loshin_TPTC_12.jpg?ex=65a1fe4f&is=658f894f&hm=fc11ad481b9a81972c5470f19f826ae625a2555e559692b6a6e774a15e13e162&",
+                  "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
-                  "UniqueBack": true,
+                  "UniqueBack": false,
                   "Type": 0
                 }
               },
               "LuaScript": "",
               "LuaScriptState": "",
-              "XmlUI": ""
+              "XmlUI": "",
+              "ContainedObjects": [
+                {
+                  "GUID": "613256",
+                  "Name": "Card",
+                  "Transform": {
+                    "posX": 29.428009,
+                    "posY": 1.495173,
+                    "posZ": -7.2423296,
+                    "rotX": -0.0005596705,
+                    "rotY": 270.019684,
+                    "rotZ": 0.004522841,
+                    "scaleX": 1.0,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.0
+                  },
+                  "Nickname": "Visions in Your Mind (Death)",
+                  "Description": "Terror.",
+                  "GMNotes": "{\n  \"id\": \"dm0028\",\n  \"type\": \"Treachery\",\n  \"traits\": \"\",\n  \"hidden\": true,\n  \"cycle\": \"dark matter\"\n}",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "Tags": [
+                    "ScenarioCard"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 232821,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "2328": {
+                      "FaceURL": "https://cdn.discordapp.com/attachments/1190088801918390293/1190491179704406097/Loshin_TPTC_12.jpg?ex=65a1fe4f&is=658f894f&hm=fc11ad481b9a81972c5470f19f826ae625a2555e559692b6a6e774a15e13e162&",
+                      "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                      "NumWidth": 10,
+                      "NumHeight": 7,
+                      "BackIsHidden": true,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "a92ef8",
+                  "Name": "Card",
+                  "Transform": {
+                    "posX": 29.49693,
+                    "posY": 1.53833032,
+                    "posZ": -6.79352856,
+                    "rotX": 359.9778,
+                    "rotY": 270.0086,
+                    "rotZ": 359.955353,
+                    "scaleX": 1.0,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.0
+                  },
+                  "Nickname": "Visions in Your Mind (Hatred)",
+                  "Description": "Terror.",
+                  "GMNotes": "{\n  \"id\": \"dm0029\",\n  \"type\": \"Treachery\",\n  \"traits\": \"\",\n  \"hidden\": true,\n  \"cycle\": \"dark matter\"\n}",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "Tags": [
+                    "ScenarioCard"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 232822,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "2328": {
+                      "FaceURL": "https://cdn.discordapp.com/attachments/1190088801918390293/1190491179704406097/Loshin_TPTC_12.jpg?ex=65a1fe4f&is=658f894f&hm=fc11ad481b9a81972c5470f19f826ae625a2555e559692b6a6e774a15e13e162&",
+                      "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                      "NumWidth": 10,
+                      "NumHeight": 7,
+                      "BackIsHidden": true,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "5987af",
+                  "Name": "Card",
+                  "Transform": {
+                    "posX": 29.1429329,
+                    "posY": 1.56928885,
+                    "posZ": -6.83585453,
+                    "rotX": -0.000463739154,
+                    "rotY": 270.007629,
+                    "rotZ": 0.174237162,
+                    "scaleX": 1.0,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.0
+                  },
+                  "Nickname": "Visions in Your Mind (Horrors)",
+                  "Description": "Terror.",
+                  "GMNotes": "{\n  \"id\": \"dm0027\",\n  \"type\": \"Treachery\",\n  \"traits\": \"\",\n  \"hidden\": true,\n  \"cycle\": \"dark matter\"\n}",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "Tags": [
+                    "ScenarioCard"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 232819,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "2328": {
+                      "FaceURL": "https://cdn.discordapp.com/attachments/1190088801918390293/1190491179704406097/Loshin_TPTC_12.jpg?ex=65a1fe4f&is=658f894f&hm=fc11ad481b9a81972c5470f19f826ae625a2555e559692b6a6e774a15e13e162&",
+                      "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                      "NumWidth": 10,
+                      "NumHeight": 7,
+                      "BackIsHidden": true,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "ca4b6d",
+                  "Name": "Card",
+                  "Transform": {
+                    "posX": 29.370266,
+                    "posY": 1.58876312,
+                    "posZ": -7.61893654,
+                    "rotX": 0.000343937369,
+                    "rotY": 270.023621,
+                    "rotZ": 0.7675849,
+                    "scaleX": 1.0,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.0
+                  },
+                  "Nickname": "Visions in Your Mind (Failure)",
+                  "Description": "Terror.",
+                  "GMNotes": "{\n  \"id\": \"dm0026\",\n  \"type\": \"Treachery\",\n  \"traits\": \"\",\n  \"hidden\": true,\n  \"cycle\": \"dark matter\"\n}",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "Tags": [
+                    "ScenarioCard"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 232820,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "2328": {
+                      "FaceURL": "https://cdn.discordapp.com/attachments/1190088801918390293/1190491179704406097/Loshin_TPTC_12.jpg?ex=65a1fe4f&is=658f894f&hm=fc11ad481b9a81972c5470f19f826ae625a2555e559692b6a6e774a15e13e162&",
+                      "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                      "NumWidth": 10,
+                      "NumHeight": 7,
+                      "BackIsHidden": true,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "dd93e2",
+                  "Name": "Card",
+                  "Transform": {
+                    "posX": 29.5120277,
+                    "posY": 1.58525419,
+                    "posZ": -7.885636,
+                    "rotX": 0.00134759035,
+                    "rotY": 270.0229,
+                    "rotZ": 0.00044364162,
+                    "scaleX": 1.0,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.0
+                  },
+                  "Nickname": "Maddening Delusions",
+                  "Description": "Terror.",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "Tags": [
+                    "ScenarioCard"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 232823,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "2328": {
+                      "FaceURL": "https://cdn.discordapp.com/attachments/1190088801918390293/1190491179704406097/Loshin_TPTC_12.jpg?ex=65a1fe4f&is=658f894f&hm=fc11ad481b9a81972c5470f19f826ae625a2555e559692b6a6e774a15e13e162&",
+                      "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                      "NumWidth": 10,
+                      "NumHeight": 7,
+                      "BackIsHidden": true,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "3effb8",
+                  "Name": "Card",
+                  "Transform": {
+                    "posX": 29.781004,
+                    "posY": 1.59497869,
+                    "posZ": -7.09211731,
+                    "rotX": 0.000896027952,
+                    "rotY": 270.018219,
+                    "rotZ": -0.0009035182,
+                    "scaleX": 1.0,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.0
+                  },
+                  "Nickname": "Maddening Delusions",
+                  "Description": "Terror.",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "Tags": [
+                    "ScenarioCard"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 232823,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "2328": {
+                      "FaceURL": "https://cdn.discordapp.com/attachments/1190088801918390293/1190491179704406097/Loshin_TPTC_12.jpg?ex=65a1fe4f&is=658f894f&hm=fc11ad481b9a81972c5470f19f826ae625a2555e559692b6a6e774a15e13e162&",
+                      "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                      "NumWidth": 10,
+                      "NumHeight": 7,
+                      "BackIsHidden": true,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                }
+              ]
+            },
+            {
+              "GUID": "d75ac8",
+              "Name": "Deck",
+              "Transform": {
+                "posX": -0.0422985442,
+                "posY": 1.632815,
+                "posZ": 7.345606,
+                "rotX": -5.54300321E-08,
+                "rotY": 270.021179,
+                "rotZ": -1.05413534E-07,
+                "scaleX": 1.0,
+                "scaleY": 1.0,
+                "scaleZ": 1.0
+              },
+              "Nickname": "",
+              "Description": "",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 0.713235259,
+                "g": 0.713235259,
+                "b": 0.713235259
+              },
+              "Tags": [
+                "ScenarioCard"
+              ],
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": true,
+              "Hands": false,
+              "SidewaysCard": false,
+              "DeckIDs": [
+                322606,
+                322606,
+                332202,
+                332204,
+                332203,
+                332205
+              ],
+              "CustomDeck": {
+                "3226": {
+                  "FaceURL": "http://cloud-3.steamusercontent.com/ugc/942838965128938385/918C627E2D9C7C0D46CB14AC2ED233DBA6DA1D0E/",
+                  "BackURL": "http://cloud-3.steamusercontent.com/ugc/942832349457472314/500FFA1824D8A8B95E45274169050608782AC6EC/",
+                  "NumWidth": 3,
+                  "NumHeight": 3,
+                  "BackIsHidden": true,
+                  "UniqueBack": false,
+                  "Type": 0
+                },
+                "3322": {
+                  "FaceURL": "http://cloud-3.steamusercontent.com/ugc/942838965128938385/918C627E2D9C7C0D46CB14AC2ED233DBA6DA1D0E/",
+                  "BackURL": "http://cloud-3.steamusercontent.com/ugc/942832349457472314/500FFA1824D8A8B95E45274169050608782AC6EC/",
+                  "NumWidth": 3,
+                  "NumHeight": 3,
+                  "BackIsHidden": true,
+                  "UniqueBack": false,
+                  "Type": 0
+                }
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": "",
+              "ContainedObjects": [
+                {
+                  "GUID": "79f4b5",
+                  "Name": "Card",
+                  "Transform": {
+                    "posX": 30.2582684,
+                    "posY": 1.49462545,
+                    "posZ": -1.57142651,
+                    "rotX": 0.004944557,
+                    "rotY": 270.022827,
+                    "rotZ": 359.967133,
+                    "scaleX": 1.0,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.0
+                  },
+                  "Nickname": "광기에 빠져들다",
+                  "Description": "공포심.",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "Tags": [
+                    "ScenarioCard"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 322606,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "3226": {
+                      "FaceURL": "http://cloud-3.steamusercontent.com/ugc/942838965128938385/918C627E2D9C7C0D46CB14AC2ED233DBA6DA1D0E/",
+                      "BackURL": "http://cloud-3.steamusercontent.com/ugc/942832349457472314/500FFA1824D8A8B95E45274169050608782AC6EC/",
+                      "NumWidth": 3,
+                      "NumHeight": 3,
+                      "BackIsHidden": true,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "c46282",
+                  "Name": "Card",
+                  "Transform": {
+                    "posX": 30.5022221,
+                    "posY": 1.53031683,
+                    "posZ": -1.78142464,
+                    "rotX": 359.946442,
+                    "rotY": 270.0228,
+                    "rotZ": 0.0176454112,
+                    "scaleX": 1.0,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.0
+                  },
+                  "Nickname": "광기에 빠져들다",
+                  "Description": "공포심.",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "Tags": [
+                    "ScenarioCard"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 322606,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "3226": {
+                      "FaceURL": "http://cloud-3.steamusercontent.com/ugc/942838965128938385/918C627E2D9C7C0D46CB14AC2ED233DBA6DA1D0E/",
+                      "BackURL": "http://cloud-3.steamusercontent.com/ugc/942832349457472314/500FFA1824D8A8B95E45274169050608782AC6EC/",
+                      "NumWidth": 3,
+                      "NumHeight": 3,
+                      "BackIsHidden": true,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "4f556c",
+                  "Name": "Card",
+                  "Transform": {
+                    "posX": 30.59471,
+                    "posY": 1.56609571,
+                    "posZ": -1.911452,
+                    "rotX": 0.000800598238,
+                    "rotY": 270.0228,
+                    "rotZ": -0.00118125521,
+                    "scaleX": 1.0,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.0
+                  },
+                  "Nickname": "Whispers in Your Head (Dismay)",
+                  "Description": "",
+                  "GMNotes": "{\n  \"id\": \"dm0021\",\n  \"type\": \"Treachery\",\n  \"traits\": \"\",\n  \"hidden\": true,\n  \"cycle\": \"dark matter\"\n}",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "Tags": [
+                    "ScenarioCard"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 332202,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "3322": {
+                      "FaceURL": "http://cloud-3.steamusercontent.com/ugc/942838965128938385/918C627E2D9C7C0D46CB14AC2ED233DBA6DA1D0E/",
+                      "BackURL": "http://cloud-3.steamusercontent.com/ugc/942832349457472314/500FFA1824D8A8B95E45274169050608782AC6EC/",
+                      "NumWidth": 3,
+                      "NumHeight": 3,
+                      "BackIsHidden": true,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "0f2415",
+                  "Name": "Card",
+                  "Transform": {
+                    "posX": 30.6047516,
+                    "posY": 1.58032668,
+                    "posZ": -1.42439854,
+                    "rotX": 0.000768356258,
+                    "rotY": 270.022369,
+                    "rotZ": 359.750244,
+                    "scaleX": 1.0,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.0
+                  },
+                  "Nickname": "Whispers in Your Head (Anxiety)",
+                  "Description": "",
+                  "GMNotes": "{\n  \"id\": \"dm0023\",\n  \"type\": \"Treachery\",\n  \"traits\": \"\",\n  \"hidden\": true,\n  \"cycle\": \"dark matter\"\n}",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "Tags": [
+                    "ScenarioCard"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 332204,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "3322": {
+                      "FaceURL": "http://cloud-3.steamusercontent.com/ugc/942838965128938385/918C627E2D9C7C0D46CB14AC2ED233DBA6DA1D0E/",
+                      "BackURL": "http://cloud-3.steamusercontent.com/ugc/942832349457472314/500FFA1824D8A8B95E45274169050608782AC6EC/",
+                      "NumWidth": 3,
+                      "NumHeight": 3,
+                      "BackIsHidden": true,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "c978df",
+                  "Name": "Card",
+                  "Transform": {
+                    "posX": 30.31675,
+                    "posY": 1.58525467,
+                    "posZ": -1.201065,
+                    "rotX": 0.0009440394,
+                    "rotY": 270.0234,
+                    "rotZ": -0.00237606512,
+                    "scaleX": 1.0,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.0
+                  },
+                  "Nickname": "Whispers in Your Head (Dread)",
+                  "Description": "",
+                  "GMNotes": "{\n  \"id\": \"dm0022\",\n  \"type\": \"Treachery\",\n  \"traits\": \"\",\n  \"hidden\": true,\n  \"cycle\": \"dark matter\"\n}",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "Tags": [
+                    "ScenarioCard"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 332203,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "3322": {
+                      "FaceURL": "http://cloud-3.steamusercontent.com/ugc/942838965128938385/918C627E2D9C7C0D46CB14AC2ED233DBA6DA1D0E/",
+                      "BackURL": "http://cloud-3.steamusercontent.com/ugc/942832349457472314/500FFA1824D8A8B95E45274169050608782AC6EC/",
+                      "NumWidth": 3,
+                      "NumHeight": 3,
+                      "BackIsHidden": true,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                },
+                {
+                  "GUID": "836636",
+                  "Name": "Card",
+                  "Transform": {
+                    "posX": 30.6614017,
+                    "posY": 1.59498119,
+                    "posZ": -1.91412246,
+                    "rotX": 0.000655122451,
+                    "rotY": 270.022827,
+                    "rotZ": -0.001087091,
+                    "scaleX": 1.0,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.0
+                  },
+                  "Nickname": "Whispers in Your Head (Doubt)",
+                  "Description": "",
+                  "GMNotes": "{\n  \"id\": \"dm0024\",\n  \"type\": \"Treachery\",\n  \"traits\": \"\",\n  \"hidden\": true,\n  \"cycle\": \"dark matter\"\n}",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.713235259,
+                    "g": 0.713235259,
+                    "b": 0.713235259
+                  },
+                  "Tags": [
+                    "ScenarioCard"
+                  ],
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": true,
+                  "Hands": true,
+                  "CardID": 332205,
+                  "SidewaysCard": false,
+                  "CustomDeck": {
+                    "3322": {
+                      "FaceURL": "http://cloud-3.steamusercontent.com/ugc/942838965128938385/918C627E2D9C7C0D46CB14AC2ED233DBA6DA1D0E/",
+                      "BackURL": "http://cloud-3.steamusercontent.com/ugc/942832349457472314/500FFA1824D8A8B95E45274169050608782AC6EC/",
+                      "NumWidth": 3,
+                      "NumHeight": 3,
+                      "BackIsHidden": true,
+                      "UniqueBack": false,
+                      "Type": 0
+                    }
+                  },
+                  "LuaScript": "",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                }
+              ]
             }
           ],
           "AttachedDecals": [
@@ -23499,9 +23499,9 @@
             "z": 0.0
           },
           "ColorDiffuse": {
-            "r": 0.10979902,
+            "r": 0.10979899,
             "g": 0.67770046,
-            "b": 0.209022611
+            "b": 0.209022582
           },
           "Tags": [
             "CleanUpHelper_ignore"
@@ -23543,9 +23543,9 @@
             "posX": -3.76959515,
             "posY": 1.29646492,
             "posZ": -19.1473141,
-            "rotX": 1.4674238E-07,
-            "rotY": 7.056306E-05,
-            "rotZ": -6.33659241E-08,
+            "rotX": 1.46742508E-07,
+            "rotY": 7.055639E-05,
+            "rotZ": -2.76809317E-07,
             "scaleX": 1.0,
             "scaleY": 1.0,
             "scaleZ": 1.0
@@ -25142,12 +25142,12 @@
               "GUID": "00ec48",
               "Name": "Custom_PDF",
               "Transform": {
-                "posX": 32.3297234,
-                "posY": 3.38174367,
-                "posZ": -52.2247238,
-                "rotX": 4.741049E-07,
-                "rotY": 270.000061,
-                "rotZ": 1.34864734E-07,
+                "posX": 46.34037,
+                "posY": 3.38174844,
+                "posZ": -57.1293831,
+                "rotX": -2.756195E-08,
+                "rotY": 270.0,
+                "rotZ": 1.5649124E-07,
                 "scaleX": 2.18,
                 "scaleY": 1.0,
                 "scaleZ": 2.18
@@ -25214,9 +25214,9 @@
             "z": 0.0
           },
           "ColorDiffuse": {
-            "r": 0.10979902,
+            "r": 0.10979899,
             "g": 0.67770046,
-            "b": 0.209022611
+            "b": 0.209022582
           },
           "Tags": [
             "CleanUpHelper_ignore"
@@ -29675,12 +29675,12 @@
           "GUID": "8cfe99",
           "Name": "Custom_Model_Bag",
           "Transform": {
-            "posX": 12.25,
+            "posX": 12.249794,
             "posY": 1.48149908,
-            "posZ": -4.014,
-            "rotX": -4.24412967E-08,
-            "rotY": 270.017822,
-            "rotZ": 1.74942329E-07,
+            "posZ": -4.01433659,
+            "rotX": -2.11006773E-06,
+            "rotY": 270.016541,
+            "rotZ": 1.44784238E-07,
             "scaleX": 2.21,
             "scaleY": 0.46,
             "scaleZ": 2.42
@@ -34239,9 +34239,9 @@
             "z": 0.0
           },
           "ColorDiffuse": {
-            "r": 0.10979902,
+            "r": 0.10979899,
             "g": 0.67770046,
-            "b": 0.209022611
+            "b": 0.209022582
           },
           "Tags": [
             "CleanUpHelper_ignore"
@@ -34280,12 +34280,12 @@
           "GUID": "badc52",
           "Name": "Custom_PDF",
           "Transform": {
-            "posX": -1.50000012,
+            "posX": -1.49999976,
             "posY": 1.48149931,
             "posZ": 47.0,
-            "rotX": -1.1144526E-07,
+            "rotX": 8.82681945E-08,
             "rotY": 270.0,
-            "rotZ": 2.696951E-07,
+            "rotZ": 6.39845652E-08,
             "scaleX": 2.17702246,
             "scaleY": 1.0,
             "scaleZ": 2.17702246
@@ -34337,9 +34337,9 @@
             "posX": 12.25,
             "posY": 1.4814992,
             "posZ": 3.986,
-            "rotX": -3.584263E-07,
+            "rotX": -3.7183753E-07,
             "rotY": 270.012024,
-            "rotZ": 3.80262236E-07,
+            "rotZ": 3.777705E-07,
             "scaleX": 2.21,
             "scaleY": 0.46,
             "scaleZ": 2.42
@@ -38352,9 +38352,9 @@
             "posX": 12.25,
             "posY": 1.48149908,
             "posZ": -36.014,
-            "rotX": -1.991491E-08,
+            "rotX": 1.71947079E-08,
             "rotY": 270.0022,
-            "rotZ": -8.4202135E-08,
+            "rotZ": -1.606729E-07,
             "scaleX": 2.21,
             "scaleY": 0.46,
             "scaleZ": 2.42
@@ -38419,12 +38419,12 @@
               "GUID": "0b6d9b",
               "Name": "CardCustom",
               "Transform": {
-                "posX": -3.85010433,
+                "posX": -3.85010171,
                 "posY": 1.59660506,
-                "posZ": -10.3885212,
-                "rotX": 4.294612E-08,
+                "posZ": -10.3885088,
+                "rotX": 6.951919E-08,
                 "rotY": 270.0031,
-                "rotZ": 3.55569227E-08,
+                "rotZ": 3.80167968E-08,
                 "scaleX": 1.0,
                 "scaleY": 1.0,
                 "scaleZ": 1.0
@@ -38479,8 +38479,8 @@
               "Transform": {
                 "posX": -30.2244,
                 "posY": 1.53360486,
-                "posZ": -7.70031452,
-                "rotX": -3.39037172E-08,
+                "posZ": -7.70030642,
+                "rotX": 2.15424354E-08,
                 "rotY": 270.0277,
                 "rotZ": 180.0,
                 "scaleX": 1.0,
@@ -38539,12 +38539,12 @@
               "GUID": "1e35a4",
               "Name": "Custom_Model_Bag",
               "Transform": {
-                "posX": 1.69400311,
-                "posY": 1.55803621,
-                "posZ": 14.24151,
-                "rotX": -5.17117542E-07,
+                "posX": 1.69400132,
+                "posY": 1.55803633,
+                "posZ": 14.2415037,
+                "rotX": 1.137448E-06,
                 "rotY": 224.999969,
-                "rotZ": -3.47445081E-07,
+                "rotZ": -6.75495642E-07,
                 "scaleX": 2.0,
                 "scaleY": 2.0,
                 "scaleZ": 2.0
@@ -39480,10 +39480,10 @@
               "GUID": "34d619",
               "Name": "Deck",
               "Transform": {
-                "posX": -3.928605,
+                "posX": -3.9286015,
                 "posY": 1.762794,
-                "posZ": 5.720213,
-                "rotX": 9.121799E-08,
+                "posZ": 5.720205,
+                "rotX": 2.1644334E-07,
                 "rotY": 270.0019,
                 "rotZ": 180.0,
                 "scaleX": 1.0,
@@ -41725,12 +41725,12 @@
               "GUID": "3b0889",
               "Name": "Deck",
               "Transform": {
-                "posX": -2.94010258,
+                "posX": -2.94010067,
                 "posY": 1.61837292,
-                "posZ": 0.393002242,
-                "rotX": -3.72244635E-08,
-                "rotY": 180.000214,
-                "rotZ": 8.42433963E-08,
+                "posZ": 0.393000662,
+                "rotX": -2.995005E-08,
+                "rotY": 180.0002,
+                "rotZ": -1.61599019E-08,
                 "scaleX": 1.0,
                 "scaleY": 1.0,
                 "scaleZ": 1.0
@@ -41981,12 +41981,12 @@
               "GUID": "47dfce",
               "Name": "Deck",
               "Transform": {
-                "posX": -8.519899,
-                "posY": 1.66580379,
-                "posZ": 5.81291,
-                "rotX": 1.61202466,
-                "rotY": 270.0064,
-                "rotZ": 180.0002,
+                "posX": -8.519901,
+                "posY": 1.66580367,
+                "posZ": 5.812903,
+                "rotX": 1.61202252,
+                "rotY": 270.006226,
+                "rotZ": 180.000183,
                 "scaleX": 1.0,
                 "scaleY": 1.0,
                 "scaleZ": 1.0
@@ -43252,12 +43252,12 @@
               "GUID": "47ef2b",
               "Name": "CardCustom",
               "Transform": {
-                "posX": -2.94010234,
+                "posX": -2.940101,
                 "posY": 1.59660506,
-                "posZ": -5.10421038,
-                "rotX": 1.18273089E-08,
-                "rotY": 180.005112,
-                "rotZ": -6.78051961E-08,
+                "posZ": -5.1042037,
+                "rotX": 4.85941E-08,
+                "rotY": 180.0051,
+                "rotZ": -4.869969E-09,
                 "scaleX": 1.0,
                 "scaleY": 1.0,
                 "scaleZ": 1.0
@@ -43310,11 +43310,11 @@
               "GUID": "5d3df0",
               "Name": "CardCustom",
               "Transform": {
-                "posX": -30.2242031,
+                "posX": -30.2242,
                 "posY": 1.53360486,
-                "posZ": 7.570414,
-                "rotX": 3.15305542E-08,
-                "rotY": 270.000244,
+                "posZ": 7.570406,
+                "rotX": 4.204709E-09,
+                "rotY": 270.0003,
                 "rotZ": 180.0,
                 "scaleX": 1.0,
                 "scaleY": 1.0,
@@ -43374,9 +43374,9 @@
               "Transform": {
                 "posX": -30.2243,
                 "posY": 1.53360486,
-                "posZ": -0.0299987178,
-                "rotX": -8.793588E-09,
-                "rotY": 270.0277,
+                "posZ": -0.029999584,
+                "rotX": 8.346043E-08,
+                "rotY": 270.0276,
                 "rotZ": 180.0,
                 "scaleX": 1.0,
                 "scaleY": 1.0,
@@ -43434,12 +43434,12 @@
               "GUID": "8b9040",
               "Name": "Notecard",
               "Transform": {
-                "posX": -8.234605,
-                "posY": 1.6329391,
-                "posZ": 17.9788971,
-                "rotX": 359.878632,
-                "rotY": 89.99732,
-                "rotZ": -0.00321486522,
+                "posX": -8.234604,
+                "posY": 1.6329211,
+                "posZ": 17.9789047,
+                "rotX": 359.880249,
+                "rotY": 89.99728,
+                "rotZ": -0.0013899731,
                 "scaleX": 0.725000262,
                 "scaleY": 0.725000262,
                 "scaleZ": 0.725000262
@@ -43482,9 +43482,9 @@
                 "posX": -15.1924963,
                 "posY": 1.57075,
                 "posZ": 18.0143051,
-                "rotX": -3.90442878E-08,
+                "rotX": -9.744421E-08,
                 "rotY": 89.9783,
-                "rotZ": 1.05040229E-07,
+                "rotZ": 1.35493863E-07,
                 "scaleX": 0.725000262,
                 "scaleY": 0.725000262,
                 "scaleZ": 0.725000262
@@ -43524,12 +43524,12 @@
               "GUID": "92718e",
               "Name": "CardCustom",
               "Transform": {
-                "posX": -8.199901,
-                "posY": 1.583792,
-                "posZ": 14.1123295,
-                "rotX": 1.87853789,
-                "rotY": 270.003021,
-                "rotZ": 180.000122,
+                "posX": -8.199902,
+                "posY": 1.58379173,
+                "posZ": 14.1123123,
+                "rotX": 1.87853742,
+                "rotY": 270.002747,
+                "rotZ": 180.0001,
                 "scaleX": 1.0,
                 "scaleY": 1.0,
                 "scaleZ": 1.0
@@ -43588,8 +43588,8 @@
               "Transform": {
                 "posX": -23.6764965,
                 "posY": 1.53360486,
-                "posZ": -0.0299997143,
-                "rotX": -2.954594E-08,
+                "posZ": -0.0299997479,
+                "rotX": 4.99689623E-09,
                 "rotY": 270.028137,
                 "rotZ": 180.0,
                 "scaleX": 1.0,
@@ -43648,11 +43648,11 @@
               "GUID": "9cef1b",
               "Name": "CardCustom",
               "Transform": {
-                "posX": -15.1500683,
+                "posX": -15.1500874,
                 "posY": 1.53360486,
-                "posZ": 14.159729,
-                "rotX": 2.5694419E-08,
-                "rotY": 269.998657,
+                "posZ": 14.1597137,
+                "rotX": -1.69264567E-08,
+                "rotY": 269.9987,
                 "rotZ": 180.0,
                 "scaleX": 1.0,
                 "scaleY": 1.0,
@@ -43710,12 +43710,12 @@
               "GUID": "a7d828",
               "Name": "CardCustom",
               "Transform": {
-                "posX": -8.190604,
+                "posX": -8.190603,
                 "posY": 1.58403587,
-                "posZ": 11.8592215,
-                "rotX": 1.88767,
-                "rotY": 270.0018,
-                "rotZ": 180.000076,
+                "posZ": 11.8592062,
+                "rotX": 1.8876729,
+                "rotY": 270.0017,
+                "rotZ": 180.000061,
                 "scaleX": 1.0,
                 "scaleY": 1.0,
                 "scaleZ": 1.0
@@ -43772,11 +43772,11 @@
               "GUID": "ad1bfb",
               "Name": "CardCustom",
               "Transform": {
-                "posX": -11.6959639,
+                "posX": -11.6959877,
                 "posY": 1.53360486,
-                "posZ": 14.1504307,
-                "rotX": 7.85676448E-08,
-                "rotY": 269.998077,
+                "posZ": 14.1504116,
+                "rotX": -2.83140835E-08,
+                "rotY": 269.9981,
                 "rotZ": 180.0,
                 "scaleX": 1.0,
                 "scaleY": 1.0,
@@ -43879,11 +43879,11 @@
               "GUID": "f7c870",
               "Name": "CardCustom",
               "Transform": {
-                "posX": -15.18657,
+                "posX": -15.1865883,
                 "posY": 1.53360486,
-                "posZ": 11.9247255,
-                "rotX": -7.883049E-09,
-                "rotY": 270.000549,
+                "posZ": 11.92471,
+                "rotX": 3.36040351E-08,
+                "rotY": 270.00058,
                 "rotZ": 180.0,
                 "scaleX": 1.0,
                 "scaleY": 1.0,
@@ -43941,11 +43941,11 @@
               "GUID": "fdd2bc",
               "Name": "CardCustom",
               "Transform": {
-                "posX": -11.6963654,
+                "posX": -11.6963863,
                 "posY": 1.53360486,
-                "posZ": 11.797925,
-                "rotX": -6.423367E-08,
-                "rotY": 269.998047,
+                "posZ": 11.7979088,
+                "rotX": 2.35598741E-08,
+                "rotY": 269.9981,
                 "rotZ": 180.0,
                 "scaleX": 1.0,
                 "scaleY": 1.0,
