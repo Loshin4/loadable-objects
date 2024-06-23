@@ -210,7 +210,7 @@
     {
       "name": "돌아온 광신도의 밤",
       "url": "campaigns/R_NotZ.json",
-      "replace": "56270d",
+      "replace": "z9lz09",
       "boxsize": "wide",
       "boxart": "http://cloud-3.steamusercontent.com/ugc/762723517667598054/18C06F0F20D9D4651E6736FB609E2D41F4D1964E/",
       "author": "Fantasy Flight Games",
@@ -219,7 +219,7 @@
     {
       "name": "돌아온 던위치의 유산",
       "url": "campaigns/R_TDL.json",
-      "replace": "ce9130",
+      "replace": "z9lz10",
       "boxsize": "wide",
       "boxart": "http://cloud-3.steamusercontent.com/ugc/762723517667592476/36D86649503A49A36AA97B7B72C6150E4C2BE333/",
       "author": "Fantasy Flight Games",
@@ -228,7 +228,7 @@
     {
       "name": "돌아온 카르코사로 가는 길",
       "url": "campaigns/R_TPtC.json",
-      "replace": "e9889a",
+      "replace": "z9lz11",
       "boxsize": "wide",
       "boxart": "http://cloud-3.steamusercontent.com/ugc/762723517667556656/9638E8CE7F209B50634B202C9EF4B0BDB4993BBB/",
       "author": "Fantasy Flight Games",
@@ -237,7 +237,7 @@
     {
       "name": "돌아온 잊힌 시대",
       "url": "campaigns/R_TFA.json",
-      "replace": "479ff3",
+      "replace": "z9lz12",
       "boxsize": "wide",
       "boxart": "http://cloud-3.steamusercontent.com/ugc/1474319121423613924/490D56D20C6AE0547D67D942513396E8D0584A4A/",
       "author": "Fantasy Flight Games",
@@ -246,7 +246,7 @@
     {
       "name": "돌아온 끝맺지 못한 의식",
       "url": "campaigns/R_TCU.json",
-      "replace": "757324",
+      "replace": "z9lz13",
       "boxsize": "wide",
       "boxart": "http://cloud-3.steamusercontent.com/ugc/1697277388086852852/6FD56D74FDDDA5626A3B72E788993EC651AD25E1/",
       "author": "Fantasy Flight Games",
