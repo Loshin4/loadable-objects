@@ -417,6 +417,15 @@
   ],
   "community": [
     {
+      "name": "펜메이드: AHLK 조사자",
+      "url": "fancreations/investigators_AHLK.json",
+      "replace": "z9lz16",
+      "boxsize": "small",
+      "boxart": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/006.jpg?raw=true",
+      "author": "Loshin",
+      "description": "Investigators KR AHLK."
+    },    
+    {
       "name": "Fan Investigators: Aespa Investigators",
       "url": "fancreations/investigators_aespa.json",
       "replace": "ec74df",
@@ -856,6 +865,24 @@
       "boxart": "http://cloud-3.steamusercontent.com/ugc/2365021141226343347/81F13F2784F997606E8D80AF3B3F54EE8F59628B/",
       "author": "Ubique Sajan",
       "description": "Custom investigator expansion to Arkham Horror LCG - around 180 card that are based on the Witcher."
+    },
+     {
+      "name": "팬메이드: 암흑물질",
+      "url": "fancreations/campaign_dark_matter.json",
+      "replace": "z9lz14",
+      "boxsize": "small",
+      "boxart": "http://cloud-3.steamusercontent.com/ugc/1699532377258479383/73EBF45477C1D927159E5993D99AD144641037EA/",
+      "author": "Axolotl",
+      "description": "지금은 2147년, 당신은 버려진 것처럼 보이는 우주선에서 냉동 수면에서 막 깨어났습니다. 인류의 멸종을 막기 위해 태양계를 횡단하는 깊은 우주 모험입니다."
+    },
+     {
+      "name": "팬메이드: 역병전파자",
+      "url": "fancreations/campaign_call_of_the_plaguebearer.json",
+      "replace": "z9lz15",
+      "boxsize": "small",
+      "boxart": "http://cloud-3.steamusercontent.com/ugc/1767067672754132384/EBC8D780049D2612C6BC0603BD87E94769C34D19/",
+      "author": "Dr. Jack Science",
+      "description": "수수께끼의 역병 구름이 아컴 시에 내려오자, 수수께끼를 푸는 것은 조사자들의 몫입니다."
     },
     {
       "name": "Fan Campaign: Ages Unwound",
