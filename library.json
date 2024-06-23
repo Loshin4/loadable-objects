@@ -868,7 +868,7 @@
     },
      {
       "name": "팬메이드: 암흑물질",
-      "url": "fancreations/campaign_dark_matter.json",
+      "url": "fancreations/campaign_DM.json",
       "replace": "z9lz14",
       "boxsize": "small",
       "boxart": "http://cloud-3.steamusercontent.com/ugc/1699532377258479383/73EBF45477C1D927159E5993D99AD144641037EA/",
@@ -877,7 +877,7 @@
     },
      {
       "name": "팬메이드: 역병전파자",
-      "url": "fancreations/campaign_call_of_the_plaguebearer.json",
+      "url": "fancreations/campaign_CotP.json",
       "replace": "z9lz15",
       "boxsize": "small",
       "boxart": "http://cloud-3.steamusercontent.com/ugc/1767067672754132384/EBC8D780049D2612C6BC0603BD87E94769C34D19/",
