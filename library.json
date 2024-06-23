@@ -866,7 +866,7 @@
       "author": "Ubique Sajan",
       "description": "Custom investigator expansion to Arkham Horror LCG - around 180 card that are based on the Witcher."
     },
-     {
+    {
       "name": "팬메이드: 암흑물질",
       "url": "fancreations/campaign_DM.json",
       "replace": "z9lz14",
@@ -875,7 +875,7 @@
       "author": "Axolotl",
       "description": "지금은 2147년, 당신은 버려진 것처럼 보이는 우주선에서 냉동 수면에서 막 깨어났습니다. 인류의 멸종을 막기 위해 태양계를 횡단하는 깊은 우주 모험입니다."
     },
-     {
+    {
       "name": "팬메이드: 역병전파자",
       "url": "fancreations/campaign_CotP.json",
       "replace": "z9lz15",
