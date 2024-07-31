@@ -904,7 +904,7 @@
     },
     {
       "name": "Fan Campaign: 이상한 나라의 앨리스",
-      "url": "fancreations/AIW.json",
+      "url": "fancreations/campaign_AIW.json",
       "replace": "z9lz18",
       "boxsize": "small",
       "boxart": "http://cloud-3.steamusercontent.com/ugc/1478823218929917964/80063921C2355FE26816A0E40F88D31F9EF5C4A6/",
