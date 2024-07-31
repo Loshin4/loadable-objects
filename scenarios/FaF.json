@@ -1,13 +1,13 @@
     {
-      "GUID": "z9lz17",
+      "GUID": "0dce91",
       "Name": "Custom_Model_Bag",
       "Transform": {
-        "posX": -0.9835753,
-        "posY": 0.959990561,
-        "posZ": -1.58875966,
-        "rotX": 2.02549418E-05,
-        "rotY": 270.000031,
-        "rotZ": 6.9313E-07,
+        "posX": -1.272196,
+        "posY": 0.960000038,
+        "posZ": -1.10883284,
+        "rotX": -6.176502E-08,
+        "rotY": 270.0,
+        "rotZ": -7.86622934E-07,
         "scaleX": 2.21,
         "scaleY": 0.46,
         "scaleZ": 2.42
@@ -474,7 +474,7 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "8468": {
-                  "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_05.png",
+                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221556467/191EFC12B99E3ADE24B328BD5549C73738DE9D23/",
                   "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1814412497119682452/BD224FCE1980DBA38E5A687FABFD146AA1A30D0E/",
                   "NumWidth": 1,
                   "NumHeight": 1,
@@ -535,7 +535,7 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "8469": {
-                      "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_06.png",
+                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221556831/91E275C0134A208D9306DC3548710B9D0B2E5CCD/",
                       "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1814412497119682452/BD224FCE1980DBA38E5A687FABFD146AA1A30D0E/",
                       "NumWidth": 1,
                       "NumHeight": 1,
@@ -599,8 +599,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2664": {
-                  "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_07.jpg",
-                  "BackURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_01.jpg",
+                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557067/6262A62FD32A8CDD41DA16A3DF3DEB62DE31DA21/",
+                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557650/E486F6552D38C47B6F5F9AB50F0CC693F72DE39A/",
                   "NumWidth": 7,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -661,8 +661,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2664": {
-                  "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_07.jpg",
-                  "BackURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_01.jpg",
+                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557067/6262A62FD32A8CDD41DA16A3DF3DEB62DE31DA21/",
+                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557650/E486F6552D38C47B6F5F9AB50F0CC693F72DE39A/",
                   "NumWidth": 7,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -722,8 +722,8 @@
               "SidewaysCard": true,
               "CustomDeck": {
                 "2665": {
-                  "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_07.jpg",
-                  "BackURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_01.jpg",
+                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557067/6262A62FD32A8CDD41DA16A3DF3DEB62DE31DA21/",
+                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557650/E486F6552D38C47B6F5F9AB50F0CC693F72DE39A/",
                   "NumWidth": 7,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -784,8 +784,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2664": {
-                  "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_07.jpg",
-                  "BackURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_01.jpg",
+                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557067/6262A62FD32A8CDD41DA16A3DF3DEB62DE31DA21/",
+                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557650/E486F6552D38C47B6F5F9AB50F0CC693F72DE39A/",
                   "NumWidth": 7,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -845,8 +845,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2664": {
-                  "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_07.jpg",
-                  "BackURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_01.jpg",
+                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557067/6262A62FD32A8CDD41DA16A3DF3DEB62DE31DA21/",
+                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557650/E486F6552D38C47B6F5F9AB50F0CC693F72DE39A/",
                   "NumWidth": 7,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -903,8 +903,8 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "5513": {
-                      "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_01.jpg",
-                      "BackURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_07.jpg",
+                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557650/E486F6552D38C47B6F5F9AB50F0CC693F72DE39A/",
+                      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557067/6262A62FD32A8CDD41DA16A3DF3DEB62DE31DA21/",
                       "NumWidth": 7,
                       "NumHeight": 5,
                       "BackIsHidden": true,
@@ -967,8 +967,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2664": {
-                  "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_07.jpg",
-                  "BackURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_01.jpg",
+                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557067/6262A62FD32A8CDD41DA16A3DF3DEB62DE31DA21/",
+                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557650/E486F6552D38C47B6F5F9AB50F0CC693F72DE39A/",
                   "NumWidth": 7,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -1029,8 +1029,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2664": {
-                  "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_07.jpg",
-                  "BackURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_01.jpg",
+                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557067/6262A62FD32A8CDD41DA16A3DF3DEB62DE31DA21/",
+                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557650/E486F6552D38C47B6F5F9AB50F0CC693F72DE39A/",
                   "NumWidth": 7,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -1164,7 +1164,7 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "5509": {
-                      "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                       "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
                       "NumWidth": 8,
                       "NumHeight": 6,
@@ -1232,7 +1232,7 @@
                   ],
                   "CustomDeck": {
                     "5510": {
-                      "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                       "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                       "NumWidth": 8,
                       "NumHeight": 6,
@@ -1290,7 +1290,7 @@
                       "SidewaysCard": false,
                       "CustomDeck": {
                         "5510": {
-                          "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                           "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                           "NumWidth": 8,
                           "NumHeight": 6,
@@ -1348,7 +1348,7 @@
                       "SidewaysCard": false,
                       "CustomDeck": {
                         "5510": {
-                          "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                           "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                           "NumWidth": 8,
                           "NumHeight": 6,
@@ -1406,7 +1406,7 @@
                       "SidewaysCard": false,
                       "CustomDeck": {
                         "5510": {
-                          "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                           "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                           "NumWidth": 8,
                           "NumHeight": 6,
@@ -1464,7 +1464,7 @@
                       "SidewaysCard": false,
                       "CustomDeck": {
                         "5510": {
-                          "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                           "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                           "NumWidth": 8,
                           "NumHeight": 6,
@@ -1522,7 +1522,7 @@
                       "SidewaysCard": false,
                       "CustomDeck": {
                         "5510": {
-                          "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                           "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                           "NumWidth": 8,
                           "NumHeight": 6,
@@ -1580,7 +1580,7 @@
                       "SidewaysCard": false,
                       "CustomDeck": {
                         "5510": {
-                          "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                           "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                           "NumWidth": 8,
                           "NumHeight": 6,
@@ -1641,7 +1641,7 @@
                       "SidewaysCard": false,
                       "CustomDeck": {
                         "5510": {
-                          "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                           "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                           "NumWidth": 8,
                           "NumHeight": 6,
@@ -1702,7 +1702,7 @@
                       "SidewaysCard": false,
                       "CustomDeck": {
                         "5510": {
-                          "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                           "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                           "NumWidth": 8,
                           "NumHeight": 6,
@@ -1760,7 +1760,7 @@
                       "SidewaysCard": false,
                       "CustomDeck": {
                         "5510": {
-                          "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                           "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                           "NumWidth": 8,
                           "NumHeight": 6,
@@ -1824,8 +1824,8 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "2664": {
-                      "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_07.jpg",
-                      "BackURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_01.jpg",
+                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557067/6262A62FD32A8CDD41DA16A3DF3DEB62DE31DA21/",
+                      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557650/E486F6552D38C47B6F5F9AB50F0CC693F72DE39A/",
                       "NumWidth": 7,
                       "NumHeight": 5,
                       "BackIsHidden": true,
@@ -1886,7 +1886,7 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "5510": {
-                      "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                       "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                       "NumWidth": 8,
                       "NumHeight": 6,
@@ -1948,8 +1948,8 @@
                   ],
                   "CustomDeck": {
                     "2664": {
-                      "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_07.jpg",
-                      "BackURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_01.jpg",
+                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557067/6262A62FD32A8CDD41DA16A3DF3DEB62DE31DA21/",
+                      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557650/E486F6552D38C47B6F5F9AB50F0CC693F72DE39A/",
                       "NumWidth": 7,
                       "NumHeight": 5,
                       "BackIsHidden": true,
@@ -2006,8 +2006,8 @@
                       "SidewaysCard": false,
                       "CustomDeck": {
                         "2664": {
-                          "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_07.jpg",
-                          "BackURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_01.jpg",
+                          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557067/6262A62FD32A8CDD41DA16A3DF3DEB62DE31DA21/",
+                          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557650/E486F6552D38C47B6F5F9AB50F0CC693F72DE39A/",
                           "NumWidth": 7,
                           "NumHeight": 5,
                           "BackIsHidden": true,
@@ -2064,8 +2064,8 @@
                       "SidewaysCard": false,
                       "CustomDeck": {
                         "2664": {
-                          "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_07.jpg",
-                          "BackURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_01.jpg",
+                          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557067/6262A62FD32A8CDD41DA16A3DF3DEB62DE31DA21/",
+                          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557650/E486F6552D38C47B6F5F9AB50F0CC693F72DE39A/",
                           "NumWidth": 7,
                           "NumHeight": 5,
                           "BackIsHidden": true,
@@ -2122,8 +2122,8 @@
                       "SidewaysCard": false,
                       "CustomDeck": {
                         "2664": {
-                          "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_07.jpg",
-                          "BackURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_01.jpg",
+                          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557067/6262A62FD32A8CDD41DA16A3DF3DEB62DE31DA21/",
+                          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557650/E486F6552D38C47B6F5F9AB50F0CC693F72DE39A/",
                           "NumWidth": 7,
                           "NumHeight": 5,
                           "BackIsHidden": true,
@@ -2190,8 +2190,8 @@
                   ],
                   "CustomDeck": {
                     "2664": {
-                      "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_07.jpg",
-                      "BackURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_01.jpg",
+                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557067/6262A62FD32A8CDD41DA16A3DF3DEB62DE31DA21/",
+                      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557650/E486F6552D38C47B6F5F9AB50F0CC693F72DE39A/",
                       "NumWidth": 7,
                       "NumHeight": 5,
                       "BackIsHidden": true,
@@ -2252,8 +2252,8 @@
                       "SidewaysCard": false,
                       "CustomDeck": {
                         "2664": {
-                          "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_07.jpg",
-                          "BackURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_01.jpg",
+                          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557067/6262A62FD32A8CDD41DA16A3DF3DEB62DE31DA21/",
+                          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557650/E486F6552D38C47B6F5F9AB50F0CC693F72DE39A/",
                           "NumWidth": 7,
                           "NumHeight": 5,
                           "BackIsHidden": true,
@@ -2314,8 +2314,8 @@
                       "SidewaysCard": false,
                       "CustomDeck": {
                         "2664": {
-                          "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_07.jpg",
-                          "BackURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_01.jpg",
+                          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557067/6262A62FD32A8CDD41DA16A3DF3DEB62DE31DA21/",
+                          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557650/E486F6552D38C47B6F5F9AB50F0CC693F72DE39A/",
                           "NumWidth": 7,
                           "NumHeight": 5,
                           "BackIsHidden": true,
@@ -2376,8 +2376,8 @@
                       "SidewaysCard": false,
                       "CustomDeck": {
                         "2664": {
-                          "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_07.jpg",
-                          "BackURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_01.jpg",
+                          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557067/6262A62FD32A8CDD41DA16A3DF3DEB62DE31DA21/",
+                          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557650/E486F6552D38C47B6F5F9AB50F0CC693F72DE39A/",
                           "NumWidth": 7,
                           "NumHeight": 5,
                           "BackIsHidden": true,
@@ -2438,8 +2438,8 @@
                       "SidewaysCard": false,
                       "CustomDeck": {
                         "2664": {
-                          "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_07.jpg",
-                          "BackURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_01.jpg",
+                          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557067/6262A62FD32A8CDD41DA16A3DF3DEB62DE31DA21/",
+                          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557650/E486F6552D38C47B6F5F9AB50F0CC693F72DE39A/",
                           "NumWidth": 7,
                           "NumHeight": 5,
                           "BackIsHidden": true,
@@ -2500,8 +2500,8 @@
                       "SidewaysCard": false,
                       "CustomDeck": {
                         "2664": {
-                          "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_07.jpg",
-                          "BackURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_01.jpg",
+                          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557067/6262A62FD32A8CDD41DA16A3DF3DEB62DE31DA21/",
+                          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557650/E486F6552D38C47B6F5F9AB50F0CC693F72DE39A/",
                           "NumWidth": 7,
                           "NumHeight": 5,
                           "BackIsHidden": true,
@@ -2562,8 +2562,8 @@
                       "SidewaysCard": false,
                       "CustomDeck": {
                         "2664": {
-                          "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_07.jpg",
-                          "BackURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_01.jpg",
+                          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557067/6262A62FD32A8CDD41DA16A3DF3DEB62DE31DA21/",
+                          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557650/E486F6552D38C47B6F5F9AB50F0CC693F72DE39A/",
                           "NumWidth": 7,
                           "NumHeight": 5,
                           "BackIsHidden": true,
@@ -2624,8 +2624,8 @@
                       "SidewaysCard": false,
                       "CustomDeck": {
                         "2664": {
-                          "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_07.jpg",
-                          "BackURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_01.jpg",
+                          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557067/6262A62FD32A8CDD41DA16A3DF3DEB62DE31DA21/",
+                          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557650/E486F6552D38C47B6F5F9AB50F0CC693F72DE39A/",
                           "NumWidth": 7,
                           "NumHeight": 5,
                           "BackIsHidden": true,
@@ -2698,7 +2698,7 @@
                   ],
                   "CustomDeck": {
                     "5510": {
-                      "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                       "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                       "NumWidth": 8,
                       "NumHeight": 6,
@@ -2759,7 +2759,7 @@
                       "SidewaysCard": false,
                       "CustomDeck": {
                         "5510": {
-                          "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                           "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                           "NumWidth": 8,
                           "NumHeight": 6,
@@ -2820,7 +2820,7 @@
                       "SidewaysCard": false,
                       "CustomDeck": {
                         "5510": {
-                          "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                           "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                           "NumWidth": 8,
                           "NumHeight": 6,
@@ -2881,7 +2881,7 @@
                       "SidewaysCard": false,
                       "CustomDeck": {
                         "5510": {
-                          "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                           "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                           "NumWidth": 8,
                           "NumHeight": 6,
@@ -2942,7 +2942,7 @@
                       "SidewaysCard": false,
                       "CustomDeck": {
                         "5510": {
-                          "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                           "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                           "NumWidth": 8,
                           "NumHeight": 6,
@@ -3003,7 +3003,7 @@
                       "SidewaysCard": false,
                       "CustomDeck": {
                         "5510": {
-                          "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                           "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                           "NumWidth": 8,
                           "NumHeight": 6,
@@ -3064,7 +3064,7 @@
                       "SidewaysCard": false,
                       "CustomDeck": {
                         "5510": {
-                          "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                           "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                           "NumWidth": 8,
                           "NumHeight": 6,
@@ -3125,7 +3125,7 @@
                       "SidewaysCard": false,
                       "CustomDeck": {
                         "5510": {
-                          "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                           "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                           "NumWidth": 8,
                           "NumHeight": 6,
@@ -3186,7 +3186,7 @@
                       "SidewaysCard": false,
                       "CustomDeck": {
                         "5510": {
-                          "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                           "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                           "NumWidth": 8,
                           "NumHeight": 6,
@@ -3247,7 +3247,7 @@
                       "SidewaysCard": false,
                       "CustomDeck": {
                         "5510": {
-                          "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                           "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                           "NumWidth": 8,
                           "NumHeight": 6,
@@ -3308,7 +3308,7 @@
                       "SidewaysCard": false,
                       "CustomDeck": {
                         "5510": {
-                          "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                           "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                           "NumWidth": 8,
                           "NumHeight": 6,
@@ -3369,7 +3369,7 @@
                       "SidewaysCard": false,
                       "CustomDeck": {
                         "5510": {
-                          "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                           "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                           "NumWidth": 8,
                           "NumHeight": 6,
@@ -3430,7 +3430,7 @@
                       "SidewaysCard": false,
                       "CustomDeck": {
                         "5510": {
-                          "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                           "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                           "NumWidth": 8,
                           "NumHeight": 6,
@@ -3491,7 +3491,7 @@
                       "SidewaysCard": false,
                       "CustomDeck": {
                         "5510": {
-                          "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                           "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                           "NumWidth": 8,
                           "NumHeight": 6,
@@ -3556,7 +3556,7 @@
                   ],
                   "CustomDeck": {
                     "5510": {
-                      "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                       "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                       "NumWidth": 8,
                       "NumHeight": 6,
@@ -3617,7 +3617,7 @@
                       "SidewaysCard": false,
                       "CustomDeck": {
                         "5510": {
-                          "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                           "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                           "NumWidth": 8,
                           "NumHeight": 6,
@@ -3678,7 +3678,7 @@
                       "SidewaysCard": false,
                       "CustomDeck": {
                         "5510": {
-                          "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                           "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                           "NumWidth": 8,
                           "NumHeight": 6,
@@ -3739,7 +3739,7 @@
                       "SidewaysCard": false,
                       "CustomDeck": {
                         "5510": {
-                          "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                           "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                           "NumWidth": 8,
                           "NumHeight": 6,
@@ -3800,7 +3800,7 @@
                       "SidewaysCard": false,
                       "CustomDeck": {
                         "5510": {
-                          "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                           "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                           "NumWidth": 8,
                           "NumHeight": 6,
@@ -3863,8 +3863,8 @@
                   ],
                   "CustomDeck": {
                     "2665": {
-                      "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_07.jpg",
-                      "BackURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_01.jpg",
+                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557067/6262A62FD32A8CDD41DA16A3DF3DEB62DE31DA21/",
+                      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557650/E486F6552D38C47B6F5F9AB50F0CC693F72DE39A/",
                       "NumWidth": 7,
                       "NumHeight": 5,
                       "BackIsHidden": true,
@@ -3924,8 +3924,8 @@
                       "SidewaysCard": true,
                       "CustomDeck": {
                         "2665": {
-                          "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_07.jpg",
-                          "BackURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_01.jpg",
+                          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557067/6262A62FD32A8CDD41DA16A3DF3DEB62DE31DA21/",
+                          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557650/E486F6552D38C47B6F5F9AB50F0CC693F72DE39A/",
                           "NumWidth": 7,
                           "NumHeight": 5,
                           "BackIsHidden": true,
@@ -3985,8 +3985,8 @@
                       "SidewaysCard": true,
                       "CustomDeck": {
                         "2665": {
-                          "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_07.jpg",
-                          "BackURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_01.jpg",
+                          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557067/6262A62FD32A8CDD41DA16A3DF3DEB62DE31DA21/",
+                          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557650/E486F6552D38C47B6F5F9AB50F0CC693F72DE39A/",
                           "NumWidth": 7,
                           "NumHeight": 5,
                           "BackIsHidden": true,
@@ -4049,8 +4049,8 @@
                   ],
                   "CustomDeck": {
                     "2665": {
-                      "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_07.jpg",
-                      "BackURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_01.jpg",
+                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557067/6262A62FD32A8CDD41DA16A3DF3DEB62DE31DA21/",
+                      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557650/E486F6552D38C47B6F5F9AB50F0CC693F72DE39A/",
                       "NumWidth": 7,
                       "NumHeight": 5,
                       "BackIsHidden": true,
@@ -4110,8 +4110,8 @@
                       "SidewaysCard": true,
                       "CustomDeck": {
                         "2665": {
-                          "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_07.jpg",
-                          "BackURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_01.jpg",
+                          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557067/6262A62FD32A8CDD41DA16A3DF3DEB62DE31DA21/",
+                          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557650/E486F6552D38C47B6F5F9AB50F0CC693F72DE39A/",
                           "NumWidth": 7,
                           "NumHeight": 5,
                           "BackIsHidden": true,
@@ -4171,8 +4171,8 @@
                       "SidewaysCard": true,
                       "CustomDeck": {
                         "2665": {
-                          "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_07.jpg",
-                          "BackURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_01.jpg",
+                          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557067/6262A62FD32A8CDD41DA16A3DF3DEB62DE31DA21/",
+                          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557650/E486F6552D38C47B6F5F9AB50F0CC693F72DE39A/",
                           "NumWidth": 7,
                           "NumHeight": 5,
                           "BackIsHidden": true,
@@ -4232,8 +4232,8 @@
                       "SidewaysCard": true,
                       "CustomDeck": {
                         "2665": {
-                          "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_07.jpg",
-                          "BackURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_01.jpg",
+                          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557067/6262A62FD32A8CDD41DA16A3DF3DEB62DE31DA21/",
+                          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557650/E486F6552D38C47B6F5F9AB50F0CC693F72DE39A/",
                           "NumWidth": 7,
                           "NumHeight": 5,
                           "BackIsHidden": true,
@@ -4298,8 +4298,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2664": {
-                  "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_07.jpg",
-                  "BackURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_01.jpg",
+                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557067/6262A62FD32A8CDD41DA16A3DF3DEB62DE31DA21/",
+                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557650/E486F6552D38C47B6F5F9AB50F0CC693F72DE39A/",
                   "NumWidth": 7,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -4361,8 +4361,8 @@
               ],
               "CustomDeck": {
                 "2664": {
-                  "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_07.jpg",
-                  "BackURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_01.jpg",
+                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557067/6262A62FD32A8CDD41DA16A3DF3DEB62DE31DA21/",
+                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557650/E486F6552D38C47B6F5F9AB50F0CC693F72DE39A/",
                   "NumWidth": 7,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -4423,8 +4423,8 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "2664": {
-                      "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_07.jpg",
-                      "BackURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_01.jpg",
+                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557067/6262A62FD32A8CDD41DA16A3DF3DEB62DE31DA21/",
+                      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557650/E486F6552D38C47B6F5F9AB50F0CC693F72DE39A/",
                       "NumWidth": 7,
                       "NumHeight": 5,
                       "BackIsHidden": true,
@@ -4485,8 +4485,8 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "2664": {
-                      "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_07.jpg",
-                      "BackURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_01.jpg",
+                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557067/6262A62FD32A8CDD41DA16A3DF3DEB62DE31DA21/",
+                      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557650/E486F6552D38C47B6F5F9AB50F0CC693F72DE39A/",
                       "NumWidth": 7,
                       "NumHeight": 5,
                       "BackIsHidden": true,
@@ -4547,8 +4547,8 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "2664": {
-                      "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_07.jpg",
-                      "BackURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_01.jpg",
+                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557067/6262A62FD32A8CDD41DA16A3DF3DEB62DE31DA21/",
+                      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557650/E486F6552D38C47B6F5F9AB50F0CC693F72DE39A/",
                       "NumWidth": 7,
                       "NumHeight": 5,
                       "BackIsHidden": true,
@@ -4609,8 +4609,8 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "2664": {
-                      "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_07.jpg",
-                      "BackURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_01.jpg",
+                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557067/6262A62FD32A8CDD41DA16A3DF3DEB62DE31DA21/",
+                      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557650/E486F6552D38C47B6F5F9AB50F0CC693F72DE39A/",
                       "NumWidth": 7,
                       "NumHeight": 5,
                       "BackIsHidden": true,
@@ -4672,8 +4672,8 @@
               "SidewaysCard": true,
               "CustomDeck": {
                 "2665": {
-                  "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_07.jpg",
-                  "BackURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_01.jpg",
+                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557067/6262A62FD32A8CDD41DA16A3DF3DEB62DE31DA21/",
+                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557650/E486F6552D38C47B6F5F9AB50F0CC693F72DE39A/",
                   "NumWidth": 7,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -4734,7 +4734,7 @@
               ],
               "CustomDeck": {
                 "5510": {
-                  "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                   "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                   "NumWidth": 8,
                   "NumHeight": 6,
@@ -4795,7 +4795,7 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "5510": {
-                      "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                       "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                       "NumWidth": 8,
                       "NumHeight": 6,
@@ -4856,7 +4856,7 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "5510": {
-                      "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                       "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                       "NumWidth": 8,
                       "NumHeight": 6,
@@ -4917,7 +4917,7 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "5510": {
-                      "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                       "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                       "NumWidth": 8,
                       "NumHeight": 6,
@@ -4999,7 +4999,7 @@
               ],
               "CustomDeck": {
                 "5510": {
-                  "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                   "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                   "NumWidth": 8,
                   "NumHeight": 6,
@@ -5060,7 +5060,7 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "5510": {
-                      "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                       "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                       "NumWidth": 8,
                       "NumHeight": 6,
@@ -5121,7 +5121,7 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "5510": {
-                      "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                       "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                       "NumWidth": 8,
                       "NumHeight": 6,
@@ -5182,7 +5182,7 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "5510": {
-                      "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                       "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                       "NumWidth": 8,
                       "NumHeight": 6,
@@ -5243,7 +5243,7 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "5510": {
-                      "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                       "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                       "NumWidth": 8,
                       "NumHeight": 6,
@@ -5304,7 +5304,7 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "5510": {
-                      "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                       "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                       "NumWidth": 8,
                       "NumHeight": 6,
@@ -5365,7 +5365,7 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "5510": {
-                      "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                       "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                       "NumWidth": 8,
                       "NumHeight": 6,
@@ -5426,7 +5426,7 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "5510": {
-                      "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                       "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                       "NumWidth": 8,
                       "NumHeight": 6,
@@ -5487,7 +5487,7 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "5510": {
-                      "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                       "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                       "NumWidth": 8,
                       "NumHeight": 6,
@@ -5548,7 +5548,7 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "5510": {
-                      "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                       "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                       "NumWidth": 8,
                       "NumHeight": 6,
@@ -5609,7 +5609,7 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "5510": {
-                      "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                       "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                       "NumWidth": 8,
                       "NumHeight": 6,
@@ -5670,7 +5670,7 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "5510": {
-                      "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                       "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                       "NumWidth": 8,
                       "NumHeight": 6,
@@ -5731,7 +5731,7 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "5510": {
-                      "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                       "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                       "NumWidth": 8,
                       "NumHeight": 6,
@@ -5792,7 +5792,7 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "5510": {
-                      "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                       "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                       "NumWidth": 8,
                       "NumHeight": 6,
@@ -5853,7 +5853,7 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "5510": {
-                      "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                       "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                       "NumWidth": 8,
                       "NumHeight": 6,
@@ -5914,7 +5914,7 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "5510": {
-                      "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                       "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                       "NumWidth": 8,
                       "NumHeight": 6,
@@ -5975,7 +5975,7 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "5510": {
-                      "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                       "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                       "NumWidth": 8,
                       "NumHeight": 6,
@@ -6036,7 +6036,7 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "5510": {
-                      "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                       "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                       "NumWidth": 8,
                       "NumHeight": 6,
@@ -6097,7 +6097,7 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "5510": {
-                      "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                       "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                       "NumWidth": 8,
                       "NumHeight": 6,
@@ -6158,7 +6158,7 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "5510": {
-                      "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                       "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                       "NumWidth": 8,
                       "NumHeight": 6,
@@ -6219,7 +6219,7 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "5510": {
-                      "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                       "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                       "NumWidth": 8,
                       "NumHeight": 6,
@@ -6280,7 +6280,7 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "5510": {
-                      "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                       "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                       "NumWidth": 8,
                       "NumHeight": 6,
@@ -6344,8 +6344,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2664": {
-                  "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_07.jpg",
-                  "BackURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_01.jpg",
+                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557067/6262A62FD32A8CDD41DA16A3DF3DEB62DE31DA21/",
+                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557650/E486F6552D38C47B6F5F9AB50F0CC693F72DE39A/",
                   "NumWidth": 7,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -6466,8 +6466,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2664": {
-                  "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_07.jpg",
-                  "BackURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_01.jpg",
+                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557067/6262A62FD32A8CDD41DA16A3DF3DEB62DE31DA21/",
+                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557650/E486F6552D38C47B6F5F9AB50F0CC693F72DE39A/",
                   "NumWidth": 7,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -6527,8 +6527,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "5515": {
-                  "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_03.jpg",
-                  "BackURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_04.jpg",
+                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221558629/45DCBEA2DC44D78D328E5E90E7A1C29F01F3F706/",
+                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221558766/E5AC328254B928989EB7E46A3AD8E64A65B64FE4/",
                   "NumWidth": 2,
                   "NumHeight": 2,
                   "BackIsHidden": true,
@@ -6589,8 +6589,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2664": {
-                  "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_07.jpg",
-                  "BackURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_01.jpg",
+                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557067/6262A62FD32A8CDD41DA16A3DF3DEB62DE31DA21/",
+                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557650/E486F6552D38C47B6F5F9AB50F0CC693F72DE39A/",
                   "NumWidth": 7,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -6669,8 +6669,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2664": {
-              "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_07.jpg",
-              "BackURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_01.jpg",
+              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557067/6262A62FD32A8CDD41DA16A3DF3DEB62DE31DA21/",
+              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557650/E486F6552D38C47B6F5F9AB50F0CC693F72DE39A/",
               "NumWidth": 7,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -6857,7 +6857,7 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "8469": {
-                  "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_06.png",
+                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221556831/91E275C0134A208D9306DC3548710B9D0B2E5CCD/",
                   "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1814412497119682452/BD224FCE1980DBA38E5A687FABFD146AA1A30D0E/",
                   "NumWidth": 1,
                   "NumHeight": 1,
@@ -6918,7 +6918,7 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "8468": {
-                      "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_05.png",
+                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221556467/191EFC12B99E3ADE24B328BD5549C73738DE9D23/",
                       "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1814412497119682452/BD224FCE1980DBA38E5A687FABFD146AA1A30D0E/",
                       "NumWidth": 1,
                       "NumHeight": 1,
@@ -6982,8 +6982,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2664": {
-                  "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_07.jpg",
-                  "BackURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_01.jpg",
+                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557067/6262A62FD32A8CDD41DA16A3DF3DEB62DE31DA21/",
+                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557650/E486F6552D38C47B6F5F9AB50F0CC693F72DE39A/",
                   "NumWidth": 7,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -7044,8 +7044,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2664": {
-                  "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_07.jpg",
-                  "BackURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_01.jpg",
+                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557067/6262A62FD32A8CDD41DA16A3DF3DEB62DE31DA21/",
+                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557650/E486F6552D38C47B6F5F9AB50F0CC693F72DE39A/",
                   "NumWidth": 7,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -7106,8 +7106,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2664": {
-                  "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_07.jpg",
-                  "BackURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_01.jpg",
+                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557067/6262A62FD32A8CDD41DA16A3DF3DEB62DE31DA21/",
+                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557650/E486F6552D38C47B6F5F9AB50F0CC693F72DE39A/",
                   "NumWidth": 7,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -7168,8 +7168,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2664": {
-                  "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_07.jpg",
-                  "BackURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_01.jpg",
+                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557067/6262A62FD32A8CDD41DA16A3DF3DEB62DE31DA21/",
+                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557650/E486F6552D38C47B6F5F9AB50F0CC693F72DE39A/",
                   "NumWidth": 7,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -7230,7 +7230,7 @@
               ],
               "CustomDeck": {
                 "5510": {
-                  "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                   "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                   "NumWidth": 8,
                   "NumHeight": 6,
@@ -7291,7 +7291,7 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "5510": {
-                      "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                       "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                       "NumWidth": 8,
                       "NumHeight": 6,
@@ -7352,7 +7352,7 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "5510": {
-                      "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                       "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                       "NumWidth": 8,
                       "NumHeight": 6,
@@ -7413,7 +7413,7 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "5510": {
-                      "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                       "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                       "NumWidth": 8,
                       "NumHeight": 6,
@@ -7477,8 +7477,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2664": {
-                  "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_07.jpg",
-                  "BackURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_01.jpg",
+                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557067/6262A62FD32A8CDD41DA16A3DF3DEB62DE31DA21/",
+                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557650/E486F6552D38C47B6F5F9AB50F0CC693F72DE39A/",
                   "NumWidth": 7,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -7539,8 +7539,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2664": {
-                  "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_07.jpg",
-                  "BackURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_01.jpg",
+                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557067/6262A62FD32A8CDD41DA16A3DF3DEB62DE31DA21/",
+                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557650/E486F6552D38C47B6F5F9AB50F0CC693F72DE39A/",
                   "NumWidth": 7,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -7601,7 +7601,7 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "5510": {
-                  "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                   "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                   "NumWidth": 8,
                   "NumHeight": 6,
@@ -7663,8 +7663,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2664": {
-                  "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_07.jpg",
-                  "BackURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_01.jpg",
+                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557067/6262A62FD32A8CDD41DA16A3DF3DEB62DE31DA21/",
+                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557650/E486F6552D38C47B6F5F9AB50F0CC693F72DE39A/",
                   "NumWidth": 7,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -7797,8 +7797,8 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "5511": {
-                      "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_03.jpg",
-                      "BackURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_04.jpg",
+                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221558629/45DCBEA2DC44D78D328E5E90E7A1C29F01F3F706/",
+                      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221558766/E5AC328254B928989EB7E46A3AD8E64A65B64FE4/",
                       "NumWidth": 2,
                       "NumHeight": 2,
                       "BackIsHidden": true,
@@ -7859,7 +7859,7 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "5509": {
-                      "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                       "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
                       "NumWidth": 8,
                       "NumHeight": 6,
@@ -7927,7 +7927,7 @@
                   ],
                   "CustomDeck": {
                     "5510": {
-                      "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                       "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                       "NumWidth": 8,
                       "NumHeight": 6,
@@ -7985,7 +7985,7 @@
                       "SidewaysCard": false,
                       "CustomDeck": {
                         "5510": {
-                          "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                           "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                           "NumWidth": 8,
                           "NumHeight": 6,
@@ -8043,7 +8043,7 @@
                       "SidewaysCard": false,
                       "CustomDeck": {
                         "5510": {
-                          "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                           "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                           "NumWidth": 8,
                           "NumHeight": 6,
@@ -8101,7 +8101,7 @@
                       "SidewaysCard": false,
                       "CustomDeck": {
                         "5510": {
-                          "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                           "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                           "NumWidth": 8,
                           "NumHeight": 6,
@@ -8159,7 +8159,7 @@
                       "SidewaysCard": false,
                       "CustomDeck": {
                         "5510": {
-                          "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                           "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                           "NumWidth": 8,
                           "NumHeight": 6,
@@ -8217,7 +8217,7 @@
                       "SidewaysCard": false,
                       "CustomDeck": {
                         "5510": {
-                          "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                           "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                           "NumWidth": 8,
                           "NumHeight": 6,
@@ -8275,7 +8275,7 @@
                       "SidewaysCard": false,
                       "CustomDeck": {
                         "5510": {
-                          "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                           "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                           "NumWidth": 8,
                           "NumHeight": 6,
@@ -8333,7 +8333,7 @@
                       "SidewaysCard": false,
                       "CustomDeck": {
                         "5510": {
-                          "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                           "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                           "NumWidth": 8,
                           "NumHeight": 6,
@@ -8394,7 +8394,7 @@
                       "SidewaysCard": false,
                       "CustomDeck": {
                         "5510": {
-                          "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                           "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                           "NumWidth": 8,
                           "NumHeight": 6,
@@ -8452,7 +8452,7 @@
                       "SidewaysCard": false,
                       "CustomDeck": {
                         "5510": {
-                          "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                           "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                           "NumWidth": 8,
                           "NumHeight": 6,
@@ -8516,8 +8516,8 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "2664": {
-                      "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_07.jpg",
-                      "BackURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_01.jpg",
+                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557067/6262A62FD32A8CDD41DA16A3DF3DEB62DE31DA21/",
+                      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557650/E486F6552D38C47B6F5F9AB50F0CC693F72DE39A/",
                       "NumWidth": 7,
                       "NumHeight": 5,
                       "BackIsHidden": true,
@@ -8574,8 +8574,8 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "5513": {
-                      "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_01.jpg",
-                      "BackURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_07.jpg",
+                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557650/E486F6552D38C47B6F5F9AB50F0CC693F72DE39A/",
+                      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557067/6262A62FD32A8CDD41DA16A3DF3DEB62DE31DA21/",
                       "NumWidth": 7,
                       "NumHeight": 5,
                       "BackIsHidden": true,
@@ -8632,8 +8632,8 @@
                       "SidewaysCard": false,
                       "CustomDeck": {
                         "2664": {
-                          "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_07.jpg",
-                          "BackURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_01.jpg",
+                          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557067/6262A62FD32A8CDD41DA16A3DF3DEB62DE31DA21/",
+                          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557650/E486F6552D38C47B6F5F9AB50F0CC693F72DE39A/",
                           "NumWidth": 7,
                           "NumHeight": 5,
                           "BackIsHidden": true,
@@ -8696,8 +8696,8 @@
                   ],
                   "CustomDeck": {
                     "2664": {
-                      "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_07.jpg",
-                      "BackURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_01.jpg",
+                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557067/6262A62FD32A8CDD41DA16A3DF3DEB62DE31DA21/",
+                      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557650/E486F6552D38C47B6F5F9AB50F0CC693F72DE39A/",
                       "NumWidth": 7,
                       "NumHeight": 5,
                       "BackIsHidden": true,
@@ -8754,8 +8754,8 @@
                       "SidewaysCard": false,
                       "CustomDeck": {
                         "2664": {
-                          "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_07.jpg",
-                          "BackURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_01.jpg",
+                          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557067/6262A62FD32A8CDD41DA16A3DF3DEB62DE31DA21/",
+                          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557650/E486F6552D38C47B6F5F9AB50F0CC693F72DE39A/",
                           "NumWidth": 7,
                           "NumHeight": 5,
                           "BackIsHidden": true,
@@ -8812,8 +8812,8 @@
                       "SidewaysCard": false,
                       "CustomDeck": {
                         "2664": {
-                          "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_07.jpg",
-                          "BackURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_01.jpg",
+                          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557067/6262A62FD32A8CDD41DA16A3DF3DEB62DE31DA21/",
+                          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557650/E486F6552D38C47B6F5F9AB50F0CC693F72DE39A/",
                           "NumWidth": 7,
                           "NumHeight": 5,
                           "BackIsHidden": true,
@@ -8870,8 +8870,8 @@
                       "SidewaysCard": false,
                       "CustomDeck": {
                         "2664": {
-                          "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_07.jpg",
-                          "BackURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_01.jpg",
+                          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557067/6262A62FD32A8CDD41DA16A3DF3DEB62DE31DA21/",
+                          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557650/E486F6552D38C47B6F5F9AB50F0CC693F72DE39A/",
                           "NumWidth": 7,
                           "NumHeight": 5,
                           "BackIsHidden": true,
@@ -8944,7 +8944,7 @@
                   ],
                   "CustomDeck": {
                     "5510": {
-                      "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                       "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                       "NumWidth": 8,
                       "NumHeight": 6,
@@ -9005,7 +9005,7 @@
                       "SidewaysCard": false,
                       "CustomDeck": {
                         "5510": {
-                          "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                           "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                           "NumWidth": 8,
                           "NumHeight": 6,
@@ -9066,7 +9066,7 @@
                       "SidewaysCard": false,
                       "CustomDeck": {
                         "5510": {
-                          "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                           "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                           "NumWidth": 8,
                           "NumHeight": 6,
@@ -9127,7 +9127,7 @@
                       "SidewaysCard": false,
                       "CustomDeck": {
                         "5510": {
-                          "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                           "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                           "NumWidth": 8,
                           "NumHeight": 6,
@@ -9188,7 +9188,7 @@
                       "SidewaysCard": false,
                       "CustomDeck": {
                         "5510": {
-                          "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                           "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                           "NumWidth": 8,
                           "NumHeight": 6,
@@ -9249,7 +9249,7 @@
                       "SidewaysCard": false,
                       "CustomDeck": {
                         "5510": {
-                          "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                           "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                           "NumWidth": 8,
                           "NumHeight": 6,
@@ -9310,7 +9310,7 @@
                       "SidewaysCard": false,
                       "CustomDeck": {
                         "5510": {
-                          "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                           "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                           "NumWidth": 8,
                           "NumHeight": 6,
@@ -9371,7 +9371,7 @@
                       "SidewaysCard": false,
                       "CustomDeck": {
                         "5510": {
-                          "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                           "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                           "NumWidth": 8,
                           "NumHeight": 6,
@@ -9432,7 +9432,7 @@
                       "SidewaysCard": false,
                       "CustomDeck": {
                         "5510": {
-                          "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                           "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                           "NumWidth": 8,
                           "NumHeight": 6,
@@ -9493,7 +9493,7 @@
                       "SidewaysCard": false,
                       "CustomDeck": {
                         "5510": {
-                          "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                           "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                           "NumWidth": 8,
                           "NumHeight": 6,
@@ -9554,7 +9554,7 @@
                       "SidewaysCard": false,
                       "CustomDeck": {
                         "5510": {
-                          "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                           "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                           "NumWidth": 8,
                           "NumHeight": 6,
@@ -9615,7 +9615,7 @@
                       "SidewaysCard": false,
                       "CustomDeck": {
                         "5510": {
-                          "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                           "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                           "NumWidth": 8,
                           "NumHeight": 6,
@@ -9676,7 +9676,7 @@
                       "SidewaysCard": false,
                       "CustomDeck": {
                         "5510": {
-                          "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                           "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                           "NumWidth": 8,
                           "NumHeight": 6,
@@ -9737,7 +9737,7 @@
                       "SidewaysCard": false,
                       "CustomDeck": {
                         "5510": {
-                          "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                           "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                           "NumWidth": 8,
                           "NumHeight": 6,
@@ -9802,7 +9802,7 @@
                   ],
                   "CustomDeck": {
                     "5510": {
-                      "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                       "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                       "NumWidth": 8,
                       "NumHeight": 6,
@@ -9863,7 +9863,7 @@
                       "SidewaysCard": false,
                       "CustomDeck": {
                         "5510": {
-                          "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                           "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                           "NumWidth": 8,
                           "NumHeight": 6,
@@ -9924,7 +9924,7 @@
                       "SidewaysCard": false,
                       "CustomDeck": {
                         "5510": {
-                          "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                           "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                           "NumWidth": 8,
                           "NumHeight": 6,
@@ -9985,7 +9985,7 @@
                       "SidewaysCard": false,
                       "CustomDeck": {
                         "5510": {
-                          "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                           "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                           "NumWidth": 8,
                           "NumHeight": 6,
@@ -10046,7 +10046,7 @@
                       "SidewaysCard": false,
                       "CustomDeck": {
                         "5510": {
-                          "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                           "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                           "NumWidth": 8,
                           "NumHeight": 6,
@@ -10112,8 +10112,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2664": {
-                  "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_07.jpg",
-                  "BackURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_01.jpg",
+                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557067/6262A62FD32A8CDD41DA16A3DF3DEB62DE31DA21/",
+                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557650/E486F6552D38C47B6F5F9AB50F0CC693F72DE39A/",
                   "NumWidth": 7,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -10174,8 +10174,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2664": {
-                  "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_07.jpg",
-                  "BackURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_01.jpg",
+                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557067/6262A62FD32A8CDD41DA16A3DF3DEB62DE31DA21/",
+                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557650/E486F6552D38C47B6F5F9AB50F0CC693F72DE39A/",
                   "NumWidth": 7,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -10237,8 +10237,8 @@
               ],
               "CustomDeck": {
                 "2664": {
-                  "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_07.jpg",
-                  "BackURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_01.jpg",
+                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557067/6262A62FD32A8CDD41DA16A3DF3DEB62DE31DA21/",
+                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557650/E486F6552D38C47B6F5F9AB50F0CC693F72DE39A/",
                   "NumWidth": 7,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -10299,8 +10299,8 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "2664": {
-                      "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_07.jpg",
-                      "BackURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_01.jpg",
+                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557067/6262A62FD32A8CDD41DA16A3DF3DEB62DE31DA21/",
+                      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557650/E486F6552D38C47B6F5F9AB50F0CC693F72DE39A/",
                       "NumWidth": 7,
                       "NumHeight": 5,
                       "BackIsHidden": true,
@@ -10361,8 +10361,8 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "2664": {
-                      "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_07.jpg",
-                      "BackURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_01.jpg",
+                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557067/6262A62FD32A8CDD41DA16A3DF3DEB62DE31DA21/",
+                      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557650/E486F6552D38C47B6F5F9AB50F0CC693F72DE39A/",
                       "NumWidth": 7,
                       "NumHeight": 5,
                       "BackIsHidden": true,
@@ -10423,8 +10423,8 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "2664": {
-                      "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_07.jpg",
-                      "BackURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_01.jpg",
+                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557067/6262A62FD32A8CDD41DA16A3DF3DEB62DE31DA21/",
+                      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557650/E486F6552D38C47B6F5F9AB50F0CC693F72DE39A/",
                       "NumWidth": 7,
                       "NumHeight": 5,
                       "BackIsHidden": true,
@@ -10485,8 +10485,8 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "2664": {
-                      "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_07.jpg",
-                      "BackURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_01.jpg",
+                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557067/6262A62FD32A8CDD41DA16A3DF3DEB62DE31DA21/",
+                      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557650/E486F6552D38C47B6F5F9AB50F0CC693F72DE39A/",
                       "NumWidth": 7,
                       "NumHeight": 5,
                       "BackIsHidden": true,
@@ -10549,8 +10549,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2664": {
-                  "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_07.jpg",
-                  "BackURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_01.jpg",
+                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557067/6262A62FD32A8CDD41DA16A3DF3DEB62DE31DA21/",
+                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557650/E486F6552D38C47B6F5F9AB50F0CC693F72DE39A/",
                   "NumWidth": 7,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -10611,8 +10611,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2664": {
-                  "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_07.jpg",
-                  "BackURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_01.jpg",
+                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557067/6262A62FD32A8CDD41DA16A3DF3DEB62DE31DA21/",
+                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557650/E486F6552D38C47B6F5F9AB50F0CC693F72DE39A/",
                   "NumWidth": 7,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -10672,8 +10672,8 @@
               ],
               "CustomDeck": {
                 "2665": {
-                  "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_07.jpg",
-                  "BackURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_01.jpg",
+                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557067/6262A62FD32A8CDD41DA16A3DF3DEB62DE31DA21/",
+                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557650/E486F6552D38C47B6F5F9AB50F0CC693F72DE39A/",
                   "NumWidth": 7,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -10733,8 +10733,8 @@
                   "SidewaysCard": true,
                   "CustomDeck": {
                     "2665": {
-                      "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_07.jpg",
-                      "BackURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_01.jpg",
+                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557067/6262A62FD32A8CDD41DA16A3DF3DEB62DE31DA21/",
+                      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557650/E486F6552D38C47B6F5F9AB50F0CC693F72DE39A/",
                       "NumWidth": 7,
                       "NumHeight": 5,
                       "BackIsHidden": true,
@@ -10794,8 +10794,8 @@
                   "SidewaysCard": true,
                   "CustomDeck": {
                     "2665": {
-                      "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_07.jpg",
-                      "BackURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_01.jpg",
+                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557067/6262A62FD32A8CDD41DA16A3DF3DEB62DE31DA21/",
+                      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557650/E486F6552D38C47B6F5F9AB50F0CC693F72DE39A/",
                       "NumWidth": 7,
                       "NumHeight": 5,
                       "BackIsHidden": true,
@@ -10858,7 +10858,7 @@
               ],
               "CustomDeck": {
                 "5510": {
-                  "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                   "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                   "NumWidth": 8,
                   "NumHeight": 6,
@@ -10919,7 +10919,7 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "5510": {
-                      "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                       "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                       "NumWidth": 8,
                       "NumHeight": 6,
@@ -10980,7 +10980,7 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "5510": {
-                      "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                       "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                       "NumWidth": 8,
                       "NumHeight": 6,
@@ -11041,7 +11041,7 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "5510": {
-                      "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                       "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                       "NumWidth": 8,
                       "NumHeight": 6,
@@ -11120,7 +11120,7 @@
               ],
               "CustomDeck": {
                 "5510": {
-                  "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                   "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                   "NumWidth": 8,
                   "NumHeight": 6,
@@ -11181,7 +11181,7 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "5510": {
-                      "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                       "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                       "NumWidth": 8,
                       "NumHeight": 6,
@@ -11242,7 +11242,7 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "5510": {
-                      "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                       "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                       "NumWidth": 8,
                       "NumHeight": 6,
@@ -11303,7 +11303,7 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "5510": {
-                      "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                       "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                       "NumWidth": 8,
                       "NumHeight": 6,
@@ -11364,7 +11364,7 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "5510": {
-                      "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                       "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                       "NumWidth": 8,
                       "NumHeight": 6,
@@ -11425,7 +11425,7 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "5510": {
-                      "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                       "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                       "NumWidth": 8,
                       "NumHeight": 6,
@@ -11486,7 +11486,7 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "5510": {
-                      "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                       "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                       "NumWidth": 8,
                       "NumHeight": 6,
@@ -11547,7 +11547,7 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "5510": {
-                      "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                       "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                       "NumWidth": 8,
                       "NumHeight": 6,
@@ -11608,7 +11608,7 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "5510": {
-                      "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                       "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                       "NumWidth": 8,
                       "NumHeight": 6,
@@ -11669,7 +11669,7 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "5510": {
-                      "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                       "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                       "NumWidth": 8,
                       "NumHeight": 6,
@@ -11730,7 +11730,7 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "5510": {
-                      "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                       "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                       "NumWidth": 8,
                       "NumHeight": 6,
@@ -11791,7 +11791,7 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "5510": {
-                      "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                       "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                       "NumWidth": 8,
                       "NumHeight": 6,
@@ -11852,7 +11852,7 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "5510": {
-                      "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                       "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                       "NumWidth": 8,
                       "NumHeight": 6,
@@ -11913,7 +11913,7 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "5510": {
-                      "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                       "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                       "NumWidth": 8,
                       "NumHeight": 6,
@@ -11974,7 +11974,7 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "5510": {
-                      "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                       "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                       "NumWidth": 8,
                       "NumHeight": 6,
@@ -12035,7 +12035,7 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "5510": {
-                      "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                       "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                       "NumWidth": 8,
                       "NumHeight": 6,
@@ -12096,7 +12096,7 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "5510": {
-                      "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                       "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                       "NumWidth": 8,
                       "NumHeight": 6,
@@ -12157,7 +12157,7 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "5510": {
-                      "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                       "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                       "NumWidth": 8,
                       "NumHeight": 6,
@@ -12218,7 +12218,7 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "5510": {
-                      "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_02.jpg",
+                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557944/DC9DADA8E9CBF6A0962792D79E7D48D2CFDF8C22/",
                       "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
                       "NumWidth": 8,
                       "NumHeight": 6,
@@ -12281,8 +12281,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2664": {
-                  "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_07.jpg",
-                  "BackURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_01.jpg",
+                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557067/6262A62FD32A8CDD41DA16A3DF3DEB62DE31DA21/",
+                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557650/E486F6552D38C47B6F5F9AB50F0CC693F72DE39A/",
                   "NumWidth": 7,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -12400,8 +12400,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2664": {
-                  "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_07.jpg",
-                  "BackURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_01.jpg",
+                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557067/6262A62FD32A8CDD41DA16A3DF3DEB62DE31DA21/",
+                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557650/E486F6552D38C47B6F5F9AB50F0CC693F72DE39A/",
                   "NumWidth": 7,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -12462,8 +12462,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2664": {
-                  "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_07.jpg",
-                  "BackURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_01.jpg",
+                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557067/6262A62FD32A8CDD41DA16A3DF3DEB62DE31DA21/",
+                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557650/E486F6552D38C47B6F5F9AB50F0CC693F72DE39A/",
                   "NumWidth": 7,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -12524,8 +12524,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2664": {
-                  "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_07.jpg",
-                  "BackURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_01.jpg",
+                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557067/6262A62FD32A8CDD41DA16A3DF3DEB62DE31DA21/",
+                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557650/E486F6552D38C47B6F5F9AB50F0CC693F72DE39A/",
                   "NumWidth": 7,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -12586,8 +12586,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2664": {
-                  "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_07.jpg",
-                  "BackURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_01.jpg",
+                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557067/6262A62FD32A8CDD41DA16A3DF3DEB62DE31DA21/",
+                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557650/E486F6552D38C47B6F5F9AB50F0CC693F72DE39A/",
                   "NumWidth": 7,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -12648,8 +12648,8 @@
               ],
               "CustomDeck": {
                 "2665": {
-                  "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_07.jpg",
-                  "BackURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_01.jpg",
+                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557067/6262A62FD32A8CDD41DA16A3DF3DEB62DE31DA21/",
+                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557650/E486F6552D38C47B6F5F9AB50F0CC693F72DE39A/",
                   "NumWidth": 7,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -12709,8 +12709,8 @@
                   "SidewaysCard": true,
                   "CustomDeck": {
                     "2665": {
-                      "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_07.jpg",
-                      "BackURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_01.jpg",
+                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557067/6262A62FD32A8CDD41DA16A3DF3DEB62DE31DA21/",
+                      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557650/E486F6552D38C47B6F5F9AB50F0CC693F72DE39A/",
                       "NumWidth": 7,
                       "NumHeight": 5,
                       "BackIsHidden": true,
@@ -12770,8 +12770,8 @@
                   "SidewaysCard": true,
                   "CustomDeck": {
                     "2665": {
-                      "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_07.jpg",
-                      "BackURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_01.jpg",
+                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557067/6262A62FD32A8CDD41DA16A3DF3DEB62DE31DA21/",
+                      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557650/E486F6552D38C47B6F5F9AB50F0CC693F72DE39A/",
                       "NumWidth": 7,
                       "NumHeight": 5,
                       "BackIsHidden": true,
@@ -12831,8 +12831,8 @@
                   "SidewaysCard": true,
                   "CustomDeck": {
                     "2665": {
-                      "FaceURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_07.jpg",
-                      "BackURL": "file:///C:\\Users\\xpslt\\Desktop\\새 폴더\\FaF_01.jpg",
+                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557067/6262A62FD32A8CDD41DA16A3DF3DEB62DE31DA21/",
+                      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2484382382221557650/E486F6552D38C47B6F5F9AB50F0CC693F72DE39A/",
                       "NumWidth": 7,
                       "NumHeight": 5,
                       "BackIsHidden": true,
@@ -12950,3 +12950,4 @@
         }
       ]
     }
+  
