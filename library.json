@@ -409,7 +409,7 @@
     },
     {
       "name": "한탕과 허탕",
-      "url": "scenarios/FAF.json",
+      "url": "scenarios/FaF.json",
       "replace": "z9lz17",
       "boxsize": "small",
       "boxart": "http://cloud-3.steamusercontent.com/ugc/2038486699957629658/90632624064547CE896A5236F3F15492FD920D28/",
