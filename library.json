@@ -208,6 +208,15 @@
       "description": "얼음으로 뒤덮인 남극 대륙 깊숙한 곳에 비밀이 숨겨져 있습니다. 너무 오래되고 심오한 문제는 우리가 고향이라고 부르는 행성에 대한 우리의 이해 자체를 찢을 위험이 있습니다."
     },
     {
+      "name": "진홍색 열쇠",
+      "url": "campaigns/TSK.json",
+      "replace": "z9lz16",
+      "boxsize": "big",
+      "boxart": "http://cloud-3.steamusercontent.com/ugc/2038486699957628515/8202EA3F06FDDD807A34BD6F62FE2E0A0723B8CD/",
+      "author": "Fantasy Flight Games",
+      "description": "메사추세츠.아컴 시.이곳에서 기묘한 실종 사건이 잇따릅니다. 사라진 물건,건물,사람... 이들은 물리적이 아닌 역사와 기억 속에서도 말소되었는데..."
+    },
+    {
       "name": "돌아온 광신도의 밤",
       "url": "campaigns/R_NotZ.json",
       "replace": "z9lz09",
@@ -397,6 +406,15 @@
       "boxart": "http://cloud-3.steamusercontent.com/ugc/2299716459828640802/A224024254ABCFB818F12B50C1E5E0B32060F972/",
       "author": "Fantasy Flight Games",
       "description": "To better understand our future, we must first understand our past. Monterey Jack heard of the Miskatonic University's failed expedition to the jungles of Mexico. He packs his bags and makes plans for his own expedition."
+    },
+    {
+      "name": "한탕과 허탕",
+      "url": "scenarios/FAF.json",
+      "replace": "z9lz17",
+      "boxsize": "small",
+      "boxart": "http://cloud-3.steamusercontent.com/ugc/2038486699957629658/90632624064547CE896A5236F3F15492FD920D28/",
+      "author": "Fantasy Flight Games",
+      "description": "지중해 면한 유명 휴양지 몬테카를로에 새로 개장한 호화 카지노에서 연일 기이한 사건이 일어나고 있습니다."
     },
     {
       "name": "Barkham Horror: The Meddling of Meowlathotep",
@@ -883,6 +901,15 @@
       "boxart": "http://cloud-3.steamusercontent.com/ugc/1767067672754132384/EBC8D780049D2612C6BC0603BD87E94769C34D19/",
       "author": "Dr. Jack Science",
       "description": "수수께끼의 역병 구름이 아컴 시에 내려오자, 수수께끼를 푸는 것은 조사자들의 몫입니다."
+    },
+    {
+      "name": "Fan Campaign: 이상한 나라의 앨리스",
+      "url": "fancreations/AIW.json",
+      "replace": "z9lz18",
+      "boxsize": "small",
+      "boxart": "http://cloud-3.steamusercontent.com/ugc/1478823218929917964/80063921C2355FE26816A0E40F88D31F9EF5C4A6/",
+      "author": "Axolotl",
+      "description": "이상한 나라의 앨리스는 루이스 캐럴의 이상한 나라의 앨리스와 거울나라의 모험을 각색한 8부작 캠페인입니다."
     },
     {
       "name": "Fan Campaign: Ages Unwound",
